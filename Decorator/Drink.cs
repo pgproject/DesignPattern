@@ -13,6 +13,6 @@ namespace Decorator
         {
             return describe;
         }
-        public abstract double Cost();
+        public abstract double Cost(); //aaa
     }
 }
