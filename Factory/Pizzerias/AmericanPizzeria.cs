@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Factory.AmericanPizzas;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -14,6 +15,14 @@ namespace Factory
             if (typePizza == "cheasse")
             {
                 return new AmericanCheassePizza();
+            }
+            else if(typePizza=="pepperoni")
+            {
+                return new AmericanPepperoniPizza();
+            }
+            else if(typePizza=="vegeterian")
+            {
+                return new AmericanVegeterianPizza();
             }
             else return null;
         }

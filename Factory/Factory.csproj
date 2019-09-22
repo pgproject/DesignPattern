@@ -43,21 +43,27 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="AmericanCheassePizza.cs" />
-    <Compile Include="AmericanPizzeria.cs" />
-    <Compile Include="Cheasse.cs" />
-    <Compile Include="Clams.cs" />
-    <Compile Include="Crust.cs" />
-    <Compile Include="ItalianChassePizza.cs" />
-    <Compile Include="ItalianPizzaeria.cs" />
-    <Compile Include="Peperonni.cs" />
+    <Compile Include="AmericanPizzas\AmericanCheassePizza.cs" />
+    <Compile Include="AmericanPizzas\AmericanPepperoniPizza.cs" />
+    <Compile Include="AmericanPizzas\AmericanVegeterianPizza.cs" />
+    <Compile Include="ItalianPizzas\ItalianSeaFoodPizza.cs" />
+    <Compile Include="MexicanPizzas\MexicanCheassePizza.cs" />
+    <Compile Include="Pizzerias\AmericanPizzeria.cs" />
+    <Compile Include="Ingridients\Cheasse.cs" />
+    <Compile Include="Ingridients\Clams.cs" />
+    <Compile Include="Ingridients\Crust.cs" />
+    <Compile Include="ItalianPizzas\ItalianChassePizza.cs" />
+    <Compile Include="Pizzerias\ItalianPizzaeria.cs" />
+    <Compile Include="Ingridients\Peperonni.cs" />
+    <Compile Include="ItalianPizzas\ItalianVegeterianPizza.cs" />
     <Compile Include="Pizza.cs" />
     <Compile Include="PizzaIngridientsFactory.cs" />
     <Compile Include="Pizzeria.cs" />
+    <Compile Include="Pizzerias\MexicianPizzeria.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Souce.cs" />
-    <Compile Include="Vegetables.cs" />
+    <Compile Include="Ingridients\Souce.cs" />
+    <Compile Include="Ingridients\Vegetables.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
