@@ -1,13 +1,12 @@
-﻿using Factory.Ingridients;
-using System;
+﻿using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Factory
+namespace Factory.Ingridients
 {
-    public class Peperonni
+    public class ThinFragileCrust:Crust
     {
     }
 }

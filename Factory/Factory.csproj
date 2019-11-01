@@ -46,6 +46,17 @@
     <Compile Include="AmericanPizzas\AmericanCheassePizza.cs" />
     <Compile Include="AmericanPizzas\AmericanPepperoniPizza.cs" />
     <Compile Include="AmericanPizzas\AmericanVegeterianPizza.cs" />
+    <Compile Include="IngridientsFactories\ItalianIngridientsFactory.cs" />
+    <Compile Include="IngridientsFactories\IPizzaIngridientsFactory.cs" />
+    <Compile Include="Ingridients\FreshClams.cs" />
+    <Compile Include="Ingridients\Garlic.cs" />
+    <Compile Include="Ingridients\MarinaraSouce.cs" />
+    <Compile Include="Ingridients\Mushrooms.cs" />
+    <Compile Include="Ingridients\Onion.cs" />
+    <Compile Include="Ingridients\RedPepper.cs" />
+    <Compile Include="Ingridients\ReggianoCheasse.cs" />
+    <Compile Include="Ingridients\SlicePepperioni.cs" />
+    <Compile Include="Ingridients\ThinFragileCrust.cs" />
     <Compile Include="ItalianPizzas\ItalianSeaFoodPizza.cs" />
     <Compile Include="MexicanPizzas\MexicanCheassePizza.cs" />
     <Compile Include="Pizzerias\AmericanPizzeria.cs" />
@@ -57,7 +68,6 @@
     <Compile Include="Ingridients\Peperonni.cs" />
     <Compile Include="ItalianPizzas\ItalianVegeterianPizza.cs" />
     <Compile Include="Pizza.cs" />
-    <Compile Include="PizzaIngridientsFactory.cs" />
     <Compile Include="Pizzeria.cs" />
     <Compile Include="Pizzerias\MexicianPizzeria.cs" />
     <Compile Include="Program.cs" />

@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Factory
 {
-    public interface PizzaIngridientsFactory
+    public interface IPizzaIngridientsFactory
     {
         Crust CreateCrust();
         Souce CreateSouce();
