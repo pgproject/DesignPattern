@@ -1,4 +1,5 @@
-﻿using Factory.AmericanPizzas;
+﻿using Factory.IngridientsFactories;
+using Factory.Pizzas;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -9,22 +10,32 @@ namespace Factory
 {
     public class AmericanPizzeria : Pizzeria
     {
-        public override Pizza CreatePizza(string typePizza)
+        public override Pizza CreatePizza(string pizzaType)
         {
+            Pizza pizza = null;
+            IPizzaIngridientsFactory iPizzaIngridinetsFactory = new AmericanIngridientsFactory();
 
-            if (typePizza == "cheasse")
+            if (pizzaType == "Cheasse")
             {
-                return new AmericanCheassePizza();
+                pizza = new CheassePizza(iPizzaIngridinetsFactory);
+                pizza.SetName("Pizza with cheasse");
             }
-            else if(typePizza=="pepperoni")
+            else if (pizzaType == "vegetarian")
             {
-                return new AmericanPepperoniPizza();
+                pizza = new VegeterianPizza(iPizzaIngridinetsFactory);
+                pizza.SetName("Pizza with vegetables");
             }
-            else if(typePizza=="vegeterian")
+            else if (pizzaType == "seefood")
             {
-                return new AmericanVegeterianPizza();
+                pizza = new SeaFoodPizza(iPizzaIngridinetsFactory);
+                pizza.SetName("Pizza with sea food");
             }
-            else return null;
+            else if (pizzaType == "peperonni")
+            {
+                pizza = new PeperonniPizza(iPizzaIngridinetsFactory);
+                pizza.SetName("Pizza with peperoinni");
+            }
+            return pizza;
         }
     }
 }

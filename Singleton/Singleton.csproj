@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{D5A63515-908A-4F3E-8C77-587D2366C302}</ProjectGuid>
+    <ProjectGuid>{6A181AE3-F37F-4DCC-9050-8D6DD1FEE5BB}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Factory</RootNamespace>
-    <AssemblyName>Factory</AssemblyName>
+    <RootNamespace>Singleton</RootNamespace>
+    <AssemblyName>Singleton</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,46 +43,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="IngridientsFactories\AmericanIngridientsFactory.cs" />
-    <Compile Include="IngridientsFactories\ItalianIngridientsFactory.cs" />
-    <Compile Include="IngridientsFactories\IPizzaIngridientsFactory.cs" />
-    <Compile Include="Ingridients\BackOlive.cs" />
-    <Compile Include="Ingridients\Eggplant.cs" />
-    <Compile Include="Ingridients\FatFragileCrust.cs" />
-    <Compile Include="Ingridients\FreshClams.cs" />
-    <Compile Include="Ingridients\FrozenClams.cs" />
-    <Compile Include="Ingridients\Garlic.cs" />
-    <Compile Include="Ingridients\MarinaraSouce.cs" />
-    <Compile Include="Ingridients\MozzarellaCheasse.cs" />
-    <Compile Include="Ingridients\Mushrooms.cs" />
-    <Compile Include="Ingridients\Onion.cs" />
-    <Compile Include="Ingridients\RedPepper.cs" />
-    <Compile Include="Ingridients\ReggianoCheasse.cs" />
-    <Compile Include="Ingridients\SlicePepperioni.cs" />
-    <Compile Include="Ingridients\Spinach.cs" />
-    <Compile Include="Ingridients\ThinFragileCrust.cs" />
-    <Compile Include="Ingridients\TomatoSouce.cs" />
-    <Compile Include="Pizzas\CheassePizza.cs" />
-    <Compile Include="Pizzas\PeperonniPizza.cs" />
-    <Compile Include="Pizzas\SeaFoodPizza.cs" />
-    <Compile Include="Pizzas\VegeterianPizza.cs" />
-    <Compile Include="Pizzerias\AmericanPizzeria.cs" />
-    <Compile Include="Ingridients\Cheasse.cs" />
-    <Compile Include="Ingridients\Clams.cs" />
-    <Compile Include="Ingridients\Crust.cs" />
-    <Compile Include="Pizzerias\ItalianPizzaeria.cs" />
-    <Compile Include="Ingridients\Peperonni.cs" />
-    <Compile Include="Pizza.cs" />
-    <Compile Include="Pizzeria.cs" />
-    <Compile Include="Pizzerias\MexicianPizzeria.cs" />
+    <Compile Include="ChocletteCauldron.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Ingridients\Souce.cs" />
-    <Compile Include="Ingridients\Vegetables.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
-  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

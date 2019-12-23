@@ -4,10 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Factory.AmericanPizzas
+namespace Factory.Ingridients
 {
-    public class AmericanPepperoniPizza:Pizza
+    public class BackOlive:Vegetables
     {
     }
-
 }

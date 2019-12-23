@@ -4,10 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Factory.ItalianPizzas
+namespace Factory.Ingridients
 {
-    public class ItalianVegeterianPizza:Pizza
+    public class FrozenClams:Clams
     {
-
     }
 }

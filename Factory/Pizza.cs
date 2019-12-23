@@ -6,21 +6,16 @@ namespace Factory
     public abstract class Pizza
     {
         public string Name;
-        public string Crust;
-        public string Souce;
-        public List<string> Additives = new List<string>();
+        public Crust Crust;
+        public Souce Souce;
+        public Vegetables[] Vegetables;
+        public Cheasse Cheasse;
+        public Peperonni Peperonni;
+        public Clams Clams;
 
-        public void Preapering()
-        {
-            Console.WriteLine("Prepering " + Name);
-            Console.WriteLine("Making crust...");
-            Console.WriteLine("Adding souce...");
-            Console.WriteLine("Additivies: ");
-            for (int i = 0; i < Additives.Count; i++)
-            {
-                Console.WriteLine("  "+Additives[i]);
-            }
-        }
+        public abstract void Preparation();
+
+
         public void Beaking()
         {
             Console.WriteLine("Beaking: 25 minutes in 350 celscius deagres.");
@@ -33,9 +28,17 @@ namespace Factory
         {
             Console.WriteLine("Pakcking for our official pizza box/");
         }
+        public void SetName(string name)
+        {
+            this.Name = name;
+        }
         public string DownloadName()
         {
             return Name;
+        }
+        public String ToString()
+        {
+            return null;
         }
     }
 }
