@@ -5,3 +5,7 @@ C:\Users\grzegorz.palka\source\repos\Decorator\Factory\obj\Debug\Factory.csprojA
 C:\Users\grzegorz.palka\source\repos\Decorator\Factory\obj\Debug\Factory.csproj.CoreCompileInputs.cache
 C:\Users\grzegorz.palka\source\repos\Decorator\Factory\obj\Debug\Factory.exe
 C:\Users\grzegorz.palka\source\repos\Decorator\Factory\obj\Debug\Factory.pdb
+C:\Users\Administrator\Documents\repo\DesignPattern\Factory\obj\Debug\Factory.csprojAssemblyReference.cache
+C:\Users\Administrator\Documents\repo\DesignPattern\Factory\obj\Debug\Factory.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\repo\DesignPattern\Factory\obj\Debug\Factory.exe
+C:\Users\Administrator\Documents\repo\DesignPattern\Factory\obj\Debug\Factory.pdb
