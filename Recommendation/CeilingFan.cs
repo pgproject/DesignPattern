@@ -6,29 +6,28 @@ using System.Threading.Tasks;
 
 namespace Recommendation
 {
-    public class Light 
+    public class CeilingFan
     {
         private string _room;
 
-        public Light(string room)
+        public CeilingFan(string room)
         {
             this._room = room;
         }
 
         public void SwitchIn()
         {
-            if(_room== "DiningRoom")
-                Console.WriteLine("Swiatło włączone w jadalni");
+            if (_room == "DiningRoom")
+                Console.WriteLine("Wentylator jest włączony w jadalni");
             if (_room == "Kitchen")
-                Console.WriteLine("Światło włączone w kuchni");
+                Console.WriteLine("Wentylator jest włączony w kuchni");
         }
         public void SwitchOut()
         {
             if (_room == "DiningRoom")
-                Console.WriteLine("Swiatło jest wyłączone w jadalni");
+                Console.WriteLine("Wentylator jest wyłączony w jadalni");
             if (_room == "Kitchen")
-                Console.WriteLine("Światło jest wyłączone w kuchni");
+                Console.WriteLine("Wentylator jest wyłączony w kuchni");
         }
-       
     }
 }

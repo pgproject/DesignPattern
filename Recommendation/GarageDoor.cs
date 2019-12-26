@@ -12,5 +12,9 @@ namespace Recommendation
         {
             Console.WriteLine("Drzwi garażowe są otwarte");
         }
+        public void CloseDoor()
+        {
+            Console.WriteLine("Drzwi garażowe są zamknięte");
+        }
     }
 }
