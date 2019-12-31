@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Singleton
 {
-    public class ChocletteCauldron
+    public sealed class ChocletteCauldron
     {
         private bool _empty;
         private bool _boiled;

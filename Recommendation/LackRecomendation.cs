@@ -10,8 +10,13 @@ namespace Recommendation
     {
         public void Exectue()
         {
-            Console.WriteLine("Empty comand");
         }
+
+        public void WithDraw()
+        {
+            
+        }
+
         public LackRecomendation()
         {
 

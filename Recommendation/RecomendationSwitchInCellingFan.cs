@@ -8,16 +8,37 @@ namespace Recommendation
 {
     public class RecomendationSwitchInCellingFan : IRecomendation
     {
-        private CeilingFan _celingFan;
+        private CeilingFan _ceilingFan;
+        private int _laterSpeed;
 
         public RecomendationSwitchInCellingFan(CeilingFan celingFan)
         {
-            this._celingFan = celingFan;
+            this._ceilingFan = celingFan;
         }
 
         public void Exectue()
         {
-            _celingFan.SwitchIn();
+            _ceilingFan.HighTurnover();
+        }
+
+        public void WithDraw()
+        {
+            if (_laterSpeed == _ceilingFan.FastSpeed)
+            {
+                _ceilingFan.HighTurnover();
+            }
+            else if (_laterSpeed == _ceilingFan.AvarageSpeed)
+            {
+                _ceilingFan.AvarageTurnover();
+            }
+            else if (_laterSpeed == _ceilingFan.SlowSpeed)
+            {
+                _ceilingFan.SlowTurnover();
+            }
+            else if (_laterSpeed == _ceilingFan.SwitchOut)
+            {
+                _ceilingFan.Disable();
+            }
         }
     }
 }

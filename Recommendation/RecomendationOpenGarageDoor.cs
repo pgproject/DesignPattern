@@ -15,6 +15,11 @@ namespace Recommendation
             _garageDoor.OpenDoor();
         }
 
+        public void WithDraw()
+        {
+            _garageDoor.CloseDoor();
+        }
+
         public RecomendationOpenGarageDoor(GarageDoor garageDoor)
         {
             this._garageDoor = garageDoor;

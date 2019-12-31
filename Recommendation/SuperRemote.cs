@@ -10,6 +10,7 @@ namespace Recommendation
     {
         private IRecomendation[] _recomendationSwitchIn;
         private IRecomendation[] _recomendationSwitchOut;
+        private IRecomendation _recomendationWithDraw;
 
         public SuperRemote()
         {
@@ -21,8 +22,8 @@ namespace Recommendation
             {
                 _recomendationSwitchIn[i] = _lackRecomendation;
                 _recomendationSwitchOut[i] = _lackRecomendation;
-
             }
+            _recomendationWithDraw = _lackRecomendation;
         }
 
         public void SetRecomendation(int slot, IRecomendation recomendationSwitchIn, IRecomendation recomendationSwitchOut)
@@ -34,10 +35,16 @@ namespace Recommendation
         public void PushedButtonSwitchIn(int slot)
         {
             _recomendationSwitchIn[slot].Exectue();
+            _recomendationWithDraw = _recomendationSwitchIn[slot];
         }
         public void PushedButtonSwitchOut(int slot)
         {
             _recomendationSwitchOut[slot].Exectue();
+            _recomendationWithDraw = _recomendationSwitchOut[slot];
+        }
+        public void PushedButtonWithDraw()
+        {
+            _recomendationWithDraw.WithDraw();
         }
 
         public String ToString()

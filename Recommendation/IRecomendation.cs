@@ -9,5 +9,6 @@ namespace Recommendation
     public interface IRecomendation
     {
         void Exectue();
+        void WithDraw();
     }
 }

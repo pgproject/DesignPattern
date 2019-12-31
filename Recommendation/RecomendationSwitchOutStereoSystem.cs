@@ -19,5 +19,12 @@ namespace Recommendation
         {
             _stereoSystem.SwitchOut();
         }
+
+        public void WithDraw()
+        {
+            _stereoSystem.SwitchIn();
+            _stereoSystem.SetCD();
+            _stereoSystem.SetVolume(11);
+        }
     }
 }

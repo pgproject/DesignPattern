@@ -19,5 +19,10 @@ namespace Recommendation
         {
             _light.SwitchOut();
         }
+
+        public void WithDraw()
+        {
+            _light.SwitchIn();
+        }
     }
 }

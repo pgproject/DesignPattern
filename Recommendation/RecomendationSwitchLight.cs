@@ -15,6 +15,11 @@ namespace Recommendation
             _light.SwitchIn();
         }
 
+        public void WithDraw()
+        {
+            _light.SwitchOut();
+        }
+
         public RecomendationSwitchLight(Light light)
         {
             this._light = light;

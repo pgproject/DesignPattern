@@ -22,7 +22,7 @@ namespace Recommendation
             GarageDoor _garageDoor = new GarageDoor();
 
             RecomendationSwitchLight _recomendationSwitchLightDiningRoom = new RecomendationSwitchLight(_lightDiningRoom);
-            RecomendationSwitchOutLight _recomendationSwitchOutLightDiningRoom= new RecomendationSwitchOutLight(_lightDiningRoom);
+            RecomendationSwitchOutLight _recomendationSwitchOutLightDiningRoom = new RecomendationSwitchOutLight(_lightDiningRoom);
             RecomendationSwitchLight _recomendationSwitchLightKithcen = new RecomendationSwitchLight(_lightKitchen);
             RecomendationSwitchOutLight _recomandationSwitchLightKitchen = new RecomendationSwitchOutLight(_lightKitchen);
 
@@ -30,8 +30,10 @@ namespace Recommendation
             RecomendationCloseGarageDoor _recomendationCloseDoor = new RecomendationCloseGarageDoor(_garageDoor);
 
             RecomendationSwitchInCellingFan _recomendationCelingFanSwitchInKitchen = new RecomendationSwitchInCellingFan(_cellingFanKitchen);
+            RecomendationSwitchInAvarageSpeedCeilingFan _recomendationSwitchInAvarageSpeedCeilingFanKitchen = new RecomendationSwitchInAvarageSpeedCeilingFan(_cellingFanKitchen);
             RecomendationSwitchOutCeilingFan _recomendationCelingFanSwitchOutKitchen = new RecomendationSwitchOutCeilingFan(_cellingFanKitchen);
             RecomendationSwitchInCellingFan _recomendationCelingFanSwitchInDainingRoom = new RecomendationSwitchInCellingFan(_cellingFanDiningRoom);
+            RecomendationSwitchInAvarageSpeedCeilingFan _recomendationSwitchInAvarageSpeedCeilingFanDiningRoom = new RecomendationSwitchInAvarageSpeedCeilingFan(_cellingFanDiningRoom);
             RecomendationSwitchOutCeilingFan _recomendationCelingFanSwitchOutDainingRoom = new RecomendationSwitchOutCeilingFan(_cellingFanDiningRoom);
 
             RecomendationSwitchInStereoSystem _recemendationStereoSystemSwwitchInKitchen = new RecomendationSwitchInStereoSystem(_stereoSystemKitchen);
@@ -39,13 +41,16 @@ namespace Recommendation
             RecomendationSwitchInStereoSystem _recemendationStereoSystemSwwitchInDainingRoom = new RecomendationSwitchInStereoSystem(_stereoSystemDiningRoom);
             RecomendationSwitchOutStereoSystem _remendationStreoSystemSwitchOutDainingRoom = new RecomendationSwitchOutStereoSystem(_stereoSystemDiningRoom);
 
+            IRecomendation[] _comandTable = { _recemendationStereoSystemSwwitchInKitchen, _recomendationSwitchInAvarageSpeedCeilingFanKitchen, _recomendationSwitchLightDiningRoom};
+            MakroComand makroComand = new MakroComand(_comandTable);
+
             _remote.SetRecomendation(0, _recomendationSwitchLightDiningRoom, _recomendationSwitchOutLightDiningRoom);
             _remote.SetRecomendation(1, _recomendationSwitchLightKithcen, _recomandationSwitchLightKitchen);
             _remote.SetRecomendation(2, _recomendationOpenDoor, _recomendationCloseDoor);
             _remote.SetRecomendation(3, _recomendationCelingFanSwitchInKitchen, _recomendationCelingFanSwitchOutKitchen);
-            _remote.SetRecomendation(4, _recomendationCelingFanSwitchInDainingRoom, _recomendationCelingFanSwitchOutDainingRoom);
+            _remote.SetRecomendation(4, _recomendationSwitchInAvarageSpeedCeilingFanDiningRoom, _recomendationCelingFanSwitchOutDainingRoom);
             _remote.SetRecomendation(5, _recemendationStereoSystemSwwitchInKitchen, _remendationStreoSystemSwitchOutKitchen);
-            _remote.SetRecomendation(6, _recemendationStereoSystemSwwitchInDainingRoom, _remendationStreoSystemSwitchOutDainingRoom);
+            _remote.SetRecomendation(6, makroComand, makroComand);
 
 
             _remote.PushedButtonSwitchIn(0);
@@ -69,6 +74,7 @@ namespace Recommendation
             _remote.PushedButtonSwitchIn(6);
             _remote.PushedButtonSwitchOut(6);
 
+            _remote.PushedButtonWithDraw();
             Console.ReadKey();
         }
     }

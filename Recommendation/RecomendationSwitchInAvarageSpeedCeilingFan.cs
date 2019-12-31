@@ -6,40 +6,41 @@ using System.Threading.Tasks;
 
 namespace Recommendation
 {
-    public class RecomendationSwitchOutCeilingFan : IRecomendation
+    public class RecomendationSwitchInAvarageSpeedCeilingFan : IRecomendation
     {
+
         private CeilingFan _ceilingFan;
         private int _laterSpeed;
 
-        public RecomendationSwitchOutCeilingFan(CeilingFan ceilingFan)
+        public RecomendationSwitchInAvarageSpeedCeilingFan(CeilingFan celingFan)
         {
-            this._ceilingFan = ceilingFan;
+            this._ceilingFan = celingFan;
         }
 
         public void Exectue()
         {
-            _laterSpeed = _ceilingFan.DownloadSpeed();
-            _ceilingFan.Disable();
+            _ceilingFan.AvarageTurnover();
         }
 
         public void WithDraw()
         {
-            if(_laterSpeed==_ceilingFan.FastSpeed)
+            if (_laterSpeed == _ceilingFan.FastSpeed)
             {
                 _ceilingFan.HighTurnover();
             }
-            else if(_laterSpeed==_ceilingFan.AvarageSpeed)
+            else if (_laterSpeed == _ceilingFan.AvarageSpeed)
             {
                 _ceilingFan.AvarageTurnover();
             }
-            else if(_laterSpeed==_ceilingFan.SlowSpeed)
+            else if (_laterSpeed == _ceilingFan.SlowSpeed)
             {
                 _ceilingFan.SlowTurnover();
             }
-            else if(_laterSpeed==_ceilingFan.SwitchOut)
+            else if (_laterSpeed == _ceilingFan.SwitchOut)
             {
                 _ceilingFan.Disable();
             }
         }
     }
 }
+

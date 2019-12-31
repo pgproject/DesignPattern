@@ -19,5 +19,10 @@ namespace Recommendation
         {
             _garageDoor.CloseDoor();
         }
+
+        public void WithDraw()
+        {
+            _garageDoor.OpenDoor();
+        }
     }
 }
