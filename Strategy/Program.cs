@@ -13,6 +13,11 @@ namespace Strategy
             Duck wildDuck = new WildDuck();
             wildDuck.ExecuteQuack();
             wildDuck.ExecuteFly();
+
+            Duck specialDuck = new SpecialDuck();
+            specialDuck.ExecuteFly();
+            specialDuck.SetFlyingInterface(new FlyingWithRocketFuel());
+            specialDuck.ExecuteFly();
             Console.ReadKey();
         }
     }

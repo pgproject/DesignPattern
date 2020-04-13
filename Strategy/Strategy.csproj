@@ -47,12 +47,14 @@
     <Compile Include="Behavoiurs\DontQuack.cs" />
     <Compile Include="Duck.cs" />
     <Compile Include="Behavoiurs\FlyingWithWings.cs" />
+    <Compile Include="FlyingWithRocketFuel.cs" />
     <Compile Include="Interaface\IFlying.cs" />
     <Compile Include="Interaface\IQuack.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Behavoiurs\Quacking.cs" />
     <Compile Include="Behavoiurs\Squeak.cs" />
+    <Compile Include="SpecialDuck.cs" />
     <Compile Include="WildDuck.cs" />
   </ItemGroup>
   <ItemGroup>

@@ -6,16 +6,16 @@ using System.Threading.Tasks;
 
 namespace Strategy
 {
-    public class WildDuck : Duck
+    public class SpecialDuck : Duck
     {
-        public WildDuck()
+        public SpecialDuck()
         {
+            Flying =new DontFly();
             Quack = new Quacking();
-            Flying = new FlyingWithWings();
         }
         public override void View()
         {
-            Console.WriteLine("Jestem prawdziwą dziką kaczką.");
+            throw new NotImplementedException();
         }
     }
 }

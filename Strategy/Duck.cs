@@ -8,8 +8,8 @@ namespace Strategy
 {
     public abstract class Duck
     {
-        protected IFlying flying;
-        protected IQuack quack;
+        protected IFlying Flying;
+        protected IQuack Quack;
         public Duck()
         {
                 
@@ -17,11 +17,21 @@ namespace Strategy
         public abstract void View();
         public void ExecuteQuack()
         {
-            quack.Quack();
+            Quack.Quack();
         }
         public void ExecuteFly()
         {
-            flying.Fly();
+            Flying.Fly();
         }
+        public void SetFlyingInterface(IFlying flying)
+        {
+            Flying = flying;
+        }
+
+        public void SetQuackingInterface(IQuack quack)
+        {
+            Quack = quack;
+        }
+
     }
 }
