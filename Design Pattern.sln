@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
-VisualStudioVersion = 15.0.28307.539
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29920.165
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Decorator", "Decorator\Decorator.csproj", "{2B64E385-056E-4552-8360-CF18C1107A92}"
 EndProject
@@ -14,6 +14,10 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Adapter", "Adapter\Adapter.csproj", "{DAFC18A7-91AD-4C2A-90E1-2AD345FF9B8D}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Facade", "Facade\Facade.csproj", "{5AFB6EB9-6628-4101-B876-66C81D3EEE39}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TempeteMethod", "TempeteMethod\TempeteMethod.csproj", "{759773ED-7551-4C94-8FED-82A686D2625F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Strategy", "Strategy\Strategy.csproj", "{0BD4E71D-8DC1-464A-A0A0-7208B6A5EA87}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +49,14 @@ Global
 		{5AFB6EB9-6628-4101-B876-66C81D3EEE39}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5AFB6EB9-6628-4101-B876-66C81D3EEE39}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5AFB6EB9-6628-4101-B876-66C81D3EEE39}.Release|Any CPU.Build.0 = Release|Any CPU
+		{759773ED-7551-4C94-8FED-82A686D2625F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{759773ED-7551-4C94-8FED-82A686D2625F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{759773ED-7551-4C94-8FED-82A686D2625F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{759773ED-7551-4C94-8FED-82A686D2625F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0BD4E71D-8DC1-464A-A0A0-7208B6A5EA87}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0BD4E71D-8DC1-464A-A0A0-7208B6A5EA87}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0BD4E71D-8DC1-464A-A0A0-7208B6A5EA87}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0BD4E71D-8DC1-464A-A0A0-7208B6A5EA87}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
