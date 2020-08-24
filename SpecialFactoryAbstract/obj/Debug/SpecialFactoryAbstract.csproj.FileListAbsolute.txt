@@ -1,0 +1,7 @@
+C:\Users\Administrator\Documents\repo\DesignPattern\SpecialFactoryAbstract\obj\Debug\SpecialFactoryAbstract.csprojAssemblyReference.cache
+C:\Users\Administrator\Documents\repo\DesignPattern\SpecialFactoryAbstract\obj\Debug\SpecialFactoryAbstract.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\repo\DesignPattern\SpecialFactoryAbstract\bin\Debug\SpecialFactoryAbstract.exe.config
+C:\Users\Administrator\Documents\repo\DesignPattern\SpecialFactoryAbstract\bin\Debug\SpecialFactoryAbstract.exe
+C:\Users\Administrator\Documents\repo\DesignPattern\SpecialFactoryAbstract\bin\Debug\SpecialFactoryAbstract.pdb
+C:\Users\Administrator\Documents\repo\DesignPattern\SpecialFactoryAbstract\obj\Debug\SpecialFactoryAbstract.exe
+C:\Users\Administrator\Documents\repo\DesignPattern\SpecialFactoryAbstract\obj\Debug\SpecialFactoryAbstract.pdb
