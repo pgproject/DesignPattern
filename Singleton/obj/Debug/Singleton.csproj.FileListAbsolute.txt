@@ -5,3 +5,5 @@ C:\Users\Administrator\Documents\repo\DesignPattern\Singleton\obj\Debug\Singleto
 C:\Users\Administrator\Documents\repo\DesignPattern\Singleton\obj\Debug\Singleton.csproj.CoreCompileInputs.cache
 C:\Users\Administrator\Documents\repo\DesignPattern\Singleton\obj\Debug\Singleton.exe
 C:\Users\Administrator\Documents\repo\DesignPattern\Singleton\obj\Debug\Singleton.pdb
+C:\Users\Grzegorz\Documents\Projekty\DesignPattern\Singleton\obj\Debug\Singleton.exe
+C:\Users\Grzegorz\Documents\Projekty\DesignPattern\Singleton\obj\Debug\Singleton.pdb

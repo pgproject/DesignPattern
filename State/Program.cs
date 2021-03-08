@@ -10,37 +10,17 @@ namespace State
     {
         static void Main(string[] args)
         {
-            VendingMachine vendingMachine = new VendingMachine(5);
-            Console.WriteLine(vendingMachine);
+            VendingMachine m_vendingMachine = new VendingMachine(5);
 
-            vendingMachine.PutCion();
-            vendingMachine.TwistKnob();
-
-            Console.WriteLine(vendingMachine);
-
-            vendingMachine.PutCion();
-            vendingMachine.ReturnCoin();
-            vendingMachine.TwistKnob();
-
-            Console.WriteLine(vendingMachine);
-
-            vendingMachine.PutCion();
-            vendingMachine.TwistKnob();
-            vendingMachine.PutCion();
-            vendingMachine.TwistKnob();
-            vendingMachine.ReturnCoin();
-
-            Console.WriteLine(vendingMachine);
-
-            vendingMachine.PutCion();
-            vendingMachine.PutCion();
-            vendingMachine.TwistKnob();
-            vendingMachine.PutCion();
-            vendingMachine.TwistKnob();
-            vendingMachine.PutCion();
-            vendingMachine.TwistKnob();
-
-            Console.WriteLine(vendingMachine);
+            Console.WriteLine(m_vendingMachine);
+            m_vendingMachine.PutCoin();
+            m_vendingMachine.TwistKnob();
+            Console.WriteLine(m_vendingMachine);
+            m_vendingMachine.PutCoin();
+            m_vendingMachine.TwistKnob();
+            m_vendingMachine.PutCoin();
+            m_vendingMachine.TwistKnob();
+            
             Console.ReadKey();
         }
     }

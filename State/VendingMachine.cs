@@ -1,116 +1,91 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+using State.States;
 
 namespace State
 {
     public class VendingMachine
     {
-        const int _lackOfGum = 0;
-        const int _lackOfCoin = 1;
-        const int _isCoin = 2;
-        const int _gumSold = 3;
-
-        private int _state = _lackOfGum;
-        private int _amount = 0;
-        public VendingMachine(int amount)
+        private IState m_gumSoldOut;
+        private IState m_noCoin;
+        private IState m_isCoin;
+        private IState m_gumSold;
+        private IState m_win;
+        
+        private IState m_state;
+        private int m_amountOfGum = 0;
+        public VendingMachine(int amountOfGum)
         {
-            this._amount = amount;
-            if (_amount > 0)
-                _state = _lackOfCoin;
+            m_amountOfGum = amountOfGum;
+            m_gumSoldOut = new GumSoldOutState(this);
+            m_noCoin = new NoCoinState(this);
+            m_isCoin = new IsCoinState(this);
+            m_gumSold = new GumSoldState(this);
+            m_win = new WinState(this);
+            m_state = m_gumSoldOut;
+            if (m_amountOfGum > 0)
+            {
+                m_state = m_noCoin;
+            }
         }
 
-        public void PutCion()
+        public void PutCoin()
         {
-            if(_state==_isCoin)
-            {
-                Console.WriteLine("Nie można włożyć więcej niż jednej monety.");
-            }
-            else if(_state==_lackOfGum)
-            {
-                Console.WriteLine("Nie można włożyć monety, gdyż automat jest pusty.");
-            }
-            else if(_state==_gumSold)
-            {
-                Console.WriteLine("Proszę czekać na gumę.");
-            }
-            else if(_state==_lackOfCoin)
-            {
-                _state = _isCoin;
-                Console.WriteLine("Moneta przyjęta.");
-            }
+            m_state.PutCoin();
         }
+
         public void ReturnCoin()
         {
-            if(_state==_isCoin)
-            {
-                Console.WriteLine("Moneta zwrócona.");
-                _state = _lackOfCoin;
-            }
-            else if(_state==_lackOfCoin)
-            {
-                Console.WriteLine("Nie włożyłeś monety.");
-            }   
-            else if(_state==_gumSold)
-            {
-                Console.WriteLine("Niestety nie można zwrócić monety po przekręceniu gałki.");
-            }
-            else if(_state==_lackOfGum)
-            {
-                Console.WriteLine("Nie włożyłeś monety.");
-            }
+            m_state.ReturnCoin();
         }
+
         public void TwistKnob()
         {
-            if (_state == _gumSold)
-            {
-                Console.WriteLine("Nie dostaniesz gumy tylko dlategom, że przekręciłęś gałkę drugi raz!");
-            }
-            else if (_state == _lackOfCoin)
-            {
-                Console.WriteLine("Zanim przekręcisz gałkę, wrzuć monetę.");
-            }
-            else if (_state == _lackOfGum)
-            {
-                Console.WriteLine("Przekręciłeś gałkę, ale automat jest pusty.");
-            }
-            else if (_state == _isCoin)
-            {
-                Console.WriteLine("Obróciłeś gałkę...");
-                _state = _gumSold;
-                Issue();
-            }
+            m_state.TwistKnob();
+            m_state.Issue();
         }
-        public void Issue()
+
+        public void RelaseGum()
         {
-            if(_state==_gumSold)
+            Console.WriteLine("Wypada guma");
+            if (m_amountOfGum != 0)
             {
-                Console.WriteLine("Guma wydana.");
-                _amount--;
-                if(_amount==0)
-                {
-                    Console.WriteLine("Ups, koniec gum!");
-                    _state = _lackOfGum;
-                }
-                else
-                {
-                    _state = _lackOfCoin;
-                }
-            }
-            else if(_state==_lackOfCoin)
-            {
-                Console.WriteLine("Najpierw zapłać.");
-            }
-            else if(_state==_lackOfGum)
-            {
-                Console.WriteLine("Nie wydano gumy.");
-            }
-            else if(_state==_isCoin)
-            {
-                Console.WriteLine("Nie wydano gumy.");
+                m_amountOfGum--;
             }
         }
+        public void SetState(IState state)
+        {
+            this.m_state = state;
+        }
+
+        public IState GetIsCoinState()
+        {
+            return m_isCoin;
+        }
+
+        public IState GetNoCoinState()
+        {
+            return m_noCoin;
+        }
+
+        public IState GetGumSoldState()
+        {
+            return m_gumSold;
+        }
+
+        public IState GetGumSoldOutState()
+        {
+            return m_gumSoldOut;
+        }
+
+        public IState GetWinState()
+        {
+            return m_win;
+        }
+        
+        public int GetAmountOfGum()
+        {
+            return m_amountOfGum;
+        }
+        
     }
 }

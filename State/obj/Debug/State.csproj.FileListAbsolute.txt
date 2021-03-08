@@ -5,3 +5,10 @@ C:\Users\Administrator\Documents\repo\DesignPattern\State\obj\Debug\State.csproj
 C:\Users\Administrator\Documents\repo\DesignPattern\State\obj\Debug\State.csproj.CoreCompileInputs.cache
 C:\Users\Administrator\Documents\repo\DesignPattern\State\obj\Debug\State.exe
 C:\Users\Administrator\Documents\repo\DesignPattern\State\obj\Debug\State.pdb
+C:\Users\Grzegorz\Documents\Projekty\DesignPattern\State\obj\Debug\State.exe
+C:\Users\Grzegorz\Documents\Projekty\DesignPattern\State\obj\Debug\State.pdb
+C:\Users\Grzegorz\Documents\Projekty\DesignPattern\State\bin\Debug\State.exe.config
+C:\Users\Grzegorz\Documents\Projekty\DesignPattern\State\bin\Debug\State.exe
+C:\Users\Grzegorz\Documents\Projekty\DesignPattern\State\bin\Debug\State.pdb
+C:\Users\Grzegorz\Documents\Projekty\DesignPattern\State\obj\Debug\State.csprojAssemblyReference.cache
+C:\Users\Grzegorz\Documents\Projekty\DesignPattern\State\obj\Debug\State.csproj.CoreCompileInputs.cache

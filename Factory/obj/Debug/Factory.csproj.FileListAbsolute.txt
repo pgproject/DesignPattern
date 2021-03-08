@@ -9,3 +9,5 @@ C:\Users\Administrator\Documents\repo\DesignPattern\Factory\obj\Debug\Factory.cs
 C:\Users\Administrator\Documents\repo\DesignPattern\Factory\obj\Debug\Factory.csproj.CoreCompileInputs.cache
 C:\Users\Administrator\Documents\repo\DesignPattern\Factory\obj\Debug\Factory.exe
 C:\Users\Administrator\Documents\repo\DesignPattern\Factory\obj\Debug\Factory.pdb
+C:\Users\Grzegorz\Documents\Projekty\DesignPattern\Factory\obj\Debug\Factory.exe
+C:\Users\Grzegorz\Documents\Projekty\DesignPattern\Factory\obj\Debug\Factory.pdb

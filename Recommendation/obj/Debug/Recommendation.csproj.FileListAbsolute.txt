@@ -5,3 +5,5 @@ C:\Users\Administrator\Documents\repo\DesignPattern\Recommendation\bin\Debug\Rec
 C:\Users\Administrator\Documents\repo\DesignPattern\Recommendation\bin\Debug\Recommendation.pdb
 C:\Users\Administrator\Documents\repo\DesignPattern\Recommendation\obj\Debug\Recommendation.exe
 C:\Users\Administrator\Documents\repo\DesignPattern\Recommendation\obj\Debug\Recommendation.pdb
+C:\Users\Grzegorz\Documents\Projekty\DesignPattern\Recommendation\obj\Debug\Recommendation.exe
+C:\Users\Grzegorz\Documents\Projekty\DesignPattern\Recommendation\obj\Debug\Recommendation.pdb

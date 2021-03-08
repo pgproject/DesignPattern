@@ -5,3 +5,5 @@ C:\Users\Administrator\Documents\repo\DesignPattern\TempeteMethod\obj\Debug\Temp
 C:\Users\Administrator\Documents\repo\DesignPattern\TempeteMethod\obj\Debug\TempeteMethod.csproj.CoreCompileInputs.cache
 C:\Users\Administrator\Documents\repo\DesignPattern\TempeteMethod\obj\Debug\TempeteMethod.exe
 C:\Users\Administrator\Documents\repo\DesignPattern\TempeteMethod\obj\Debug\TempeteMethod.pdb
+C:\Users\Grzegorz\Documents\Projekty\DesignPattern\TempeteMethod\obj\Debug\TempeteMethod.exe
+C:\Users\Grzegorz\Documents\Projekty\DesignPattern\TempeteMethod\obj\Debug\TempeteMethod.pdb

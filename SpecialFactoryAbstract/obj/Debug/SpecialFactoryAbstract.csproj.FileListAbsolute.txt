@@ -5,3 +5,5 @@ C:\Users\Administrator\Documents\repo\DesignPattern\SpecialFactoryAbstract\bin\D
 C:\Users\Administrator\Documents\repo\DesignPattern\SpecialFactoryAbstract\bin\Debug\SpecialFactoryAbstract.pdb
 C:\Users\Administrator\Documents\repo\DesignPattern\SpecialFactoryAbstract\obj\Debug\SpecialFactoryAbstract.exe
 C:\Users\Administrator\Documents\repo\DesignPattern\SpecialFactoryAbstract\obj\Debug\SpecialFactoryAbstract.pdb
+C:\Users\Grzegorz\Documents\Projekty\DesignPattern\SpecialFactoryAbstract\obj\Debug\SpecialFactoryAbstract.exe
+C:\Users\Grzegorz\Documents\Projekty\DesignPattern\SpecialFactoryAbstract\obj\Debug\SpecialFactoryAbstract.pdb

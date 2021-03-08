@@ -5,3 +5,5 @@ C:\Users\Administrator\Documents\repo\DesignPattern\Strategy\obj\Debug\Strategy.
 C:\Users\Administrator\Documents\repo\DesignPattern\Strategy\obj\Debug\Strategy.csproj.CoreCompileInputs.cache
 C:\Users\Administrator\Documents\repo\DesignPattern\Strategy\obj\Debug\Strategy.exe
 C:\Users\Administrator\Documents\repo\DesignPattern\Strategy\obj\Debug\Strategy.pdb
+C:\Users\Grzegorz\Documents\Projekty\DesignPattern\Strategy\obj\Debug\Strategy.exe
+C:\Users\Grzegorz\Documents\Projekty\DesignPattern\Strategy\obj\Debug\Strategy.pdb

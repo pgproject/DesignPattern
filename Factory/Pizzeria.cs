@@ -12,7 +12,7 @@ namespace Factory
         {
             Pizza pizza;
             pizza = CreatePizza(type);
-            pizza.Preapering();
+            pizza.Preparation();
             pizza.Beaking();
             pizza.Cutting();
             pizza.Packing();

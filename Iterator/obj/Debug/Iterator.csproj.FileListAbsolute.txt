@@ -5,3 +5,5 @@ C:\Users\Administrator\Documents\repo\DesignPattern\Iterator\bin\Debug\Iterator.
 C:\Users\Administrator\Documents\repo\DesignPattern\Iterator\bin\Debug\Iterator.pdb
 C:\Users\Administrator\Documents\repo\DesignPattern\Iterator\obj\Debug\Iterator.exe
 C:\Users\Administrator\Documents\repo\DesignPattern\Iterator\obj\Debug\Iterator.pdb
+C:\Users\Grzegorz\Documents\Projekty\DesignPattern\Iterator\obj\Debug\Iterator.exe
+C:\Users\Grzegorz\Documents\Projekty\DesignPattern\Iterator\obj\Debug\Iterator.pdb

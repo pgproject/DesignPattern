@@ -5,3 +5,5 @@ C:\Users\Administrator\Documents\repo\DesignPattern\Composite\obj\Debug\Composit
 C:\Users\Administrator\Documents\repo\DesignPattern\Composite\obj\Debug\Composite.csproj.CoreCompileInputs.cache
 C:\Users\Administrator\Documents\repo\DesignPattern\Composite\obj\Debug\Composite.exe
 C:\Users\Administrator\Documents\repo\DesignPattern\Composite\obj\Debug\Composite.pdb
+C:\Users\Grzegorz\Documents\Projekty\DesignPattern\Composite\obj\Debug\Composite.exe
+C:\Users\Grzegorz\Documents\Projekty\DesignPattern\Composite\obj\Debug\Composite.pdb
