@@ -12,3 +12,10 @@ C:\Users\Grzegorz\Documents\Projekty\DesignPattern\Adapter\bin\Debug\Adapter.exe
 C:\Users\Grzegorz\Documents\Projekty\DesignPattern\Adapter\bin\Debug\Adapter.pdb
 C:\Users\Grzegorz\Documents\Projekty\DesignPattern\Adapter\obj\Debug\Adapter.csprojAssemblyReference.cache
 C:\Users\Grzegorz\Documents\Projekty\DesignPattern\Adapter\obj\Debug\Adapter.csproj.CoreCompileInputs.cache
+C:\Users\gpalka\Documents\DesignPattern\Adapter\bin\Debug\Adapter.exe.config
+C:\Users\gpalka\Documents\DesignPattern\Adapter\bin\Debug\Adapter.exe
+C:\Users\gpalka\Documents\DesignPattern\Adapter\bin\Debug\Adapter.pdb
+C:\Users\gpalka\Documents\DesignPattern\Adapter\obj\Debug\Adapter.csprojAssemblyReference.cache
+C:\Users\gpalka\Documents\DesignPattern\Adapter\obj\Debug\Adapter.csproj.CoreCompileInputs.cache
+C:\Users\gpalka\Documents\DesignPattern\Adapter\obj\Debug\Adapter.exe
+C:\Users\gpalka\Documents\DesignPattern\Adapter\obj\Debug\Adapter.pdb
