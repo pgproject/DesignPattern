@@ -1,0 +1,16 @@
+C:\Users\gpalka\Documents\DesignPattern\FluentBulider\bin\Release\net5.0\FluentBulider.exe
+C:\Users\gpalka\Documents\DesignPattern\FluentBulider\bin\Release\net5.0\FluentBulider.deps.json
+C:\Users\gpalka\Documents\DesignPattern\FluentBulider\bin\Release\net5.0\FluentBulider.runtimeconfig.json
+C:\Users\gpalka\Documents\DesignPattern\FluentBulider\bin\Release\net5.0\FluentBulider.runtimeconfig.dev.json
+C:\Users\gpalka\Documents\DesignPattern\FluentBulider\bin\Release\net5.0\FluentBulider.dll
+C:\Users\gpalka\Documents\DesignPattern\FluentBulider\bin\Release\net5.0\ref\FluentBulider.dll
+C:\Users\gpalka\Documents\DesignPattern\FluentBulider\bin\Release\net5.0\FluentBulider.pdb
+C:\Users\gpalka\Documents\DesignPattern\FluentBulider\obj\Release\net5.0\FluentBulider.csprojAssemblyReference.cache
+C:\Users\gpalka\Documents\DesignPattern\FluentBulider\obj\Release\net5.0\FluentBulider.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gpalka\Documents\DesignPattern\FluentBulider\obj\Release\net5.0\FluentBulider.AssemblyInfoInputs.cache
+C:\Users\gpalka\Documents\DesignPattern\FluentBulider\obj\Release\net5.0\FluentBulider.AssemblyInfo.cs
+C:\Users\gpalka\Documents\DesignPattern\FluentBulider\obj\Release\net5.0\FluentBulider.csproj.CoreCompileInputs.cache
+C:\Users\gpalka\Documents\DesignPattern\FluentBulider\obj\Release\net5.0\FluentBulider.dll
+C:\Users\gpalka\Documents\DesignPattern\FluentBulider\obj\Release\net5.0\ref\FluentBulider.dll
+C:\Users\gpalka\Documents\DesignPattern\FluentBulider\obj\Release\net5.0\FluentBulider.pdb
+C:\Users\gpalka\Documents\DesignPattern\FluentBulider\obj\Release\net5.0\FluentBulider.genruntimeconfig.cache

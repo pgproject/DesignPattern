@@ -1,0 +1,16 @@
+C:\Users\gpalka\Documents\DesignPattern\FasetedBuilder\bin\Release\net5.0\FasetedBuilder.exe
+C:\Users\gpalka\Documents\DesignPattern\FasetedBuilder\bin\Release\net5.0\FasetedBuilder.deps.json
+C:\Users\gpalka\Documents\DesignPattern\FasetedBuilder\bin\Release\net5.0\FasetedBuilder.runtimeconfig.json
+C:\Users\gpalka\Documents\DesignPattern\FasetedBuilder\bin\Release\net5.0\FasetedBuilder.runtimeconfig.dev.json
+C:\Users\gpalka\Documents\DesignPattern\FasetedBuilder\bin\Release\net5.0\FasetedBuilder.dll
+C:\Users\gpalka\Documents\DesignPattern\FasetedBuilder\bin\Release\net5.0\ref\FasetedBuilder.dll
+C:\Users\gpalka\Documents\DesignPattern\FasetedBuilder\bin\Release\net5.0\FasetedBuilder.pdb
+C:\Users\gpalka\Documents\DesignPattern\FasetedBuilder\obj\Release\net5.0\FasetedBuilder.csprojAssemblyReference.cache
+C:\Users\gpalka\Documents\DesignPattern\FasetedBuilder\obj\Release\net5.0\FasetedBuilder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gpalka\Documents\DesignPattern\FasetedBuilder\obj\Release\net5.0\FasetedBuilder.AssemblyInfoInputs.cache
+C:\Users\gpalka\Documents\DesignPattern\FasetedBuilder\obj\Release\net5.0\FasetedBuilder.AssemblyInfo.cs
+C:\Users\gpalka\Documents\DesignPattern\FasetedBuilder\obj\Release\net5.0\FasetedBuilder.csproj.CoreCompileInputs.cache
+C:\Users\gpalka\Documents\DesignPattern\FasetedBuilder\obj\Release\net5.0\FasetedBuilder.dll
+C:\Users\gpalka\Documents\DesignPattern\FasetedBuilder\obj\Release\net5.0\ref\FasetedBuilder.dll
+C:\Users\gpalka\Documents\DesignPattern\FasetedBuilder\obj\Release\net5.0\FasetedBuilder.pdb
+C:\Users\gpalka\Documents\DesignPattern\FasetedBuilder\obj\Release\net5.0\FasetedBuilder.genruntimeconfig.cache

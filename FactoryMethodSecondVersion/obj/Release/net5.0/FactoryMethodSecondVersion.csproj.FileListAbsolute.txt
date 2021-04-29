@@ -1,0 +1,16 @@
+C:\Users\gpalka\Documents\DesignPattern\FactoryMethodSecondVersion\bin\Release\net5.0\FactoryMethodSecondVersion.exe
+C:\Users\gpalka\Documents\DesignPattern\FactoryMethodSecondVersion\bin\Release\net5.0\FactoryMethodSecondVersion.deps.json
+C:\Users\gpalka\Documents\DesignPattern\FactoryMethodSecondVersion\bin\Release\net5.0\FactoryMethodSecondVersion.runtimeconfig.json
+C:\Users\gpalka\Documents\DesignPattern\FactoryMethodSecondVersion\bin\Release\net5.0\FactoryMethodSecondVersion.runtimeconfig.dev.json
+C:\Users\gpalka\Documents\DesignPattern\FactoryMethodSecondVersion\bin\Release\net5.0\FactoryMethodSecondVersion.dll
+C:\Users\gpalka\Documents\DesignPattern\FactoryMethodSecondVersion\bin\Release\net5.0\ref\FactoryMethodSecondVersion.dll
+C:\Users\gpalka\Documents\DesignPattern\FactoryMethodSecondVersion\bin\Release\net5.0\FactoryMethodSecondVersion.pdb
+C:\Users\gpalka\Documents\DesignPattern\FactoryMethodSecondVersion\obj\Release\net5.0\FactoryMethodSecondVersion.csprojAssemblyReference.cache
+C:\Users\gpalka\Documents\DesignPattern\FactoryMethodSecondVersion\obj\Release\net5.0\FactoryMethodSecondVersion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gpalka\Documents\DesignPattern\FactoryMethodSecondVersion\obj\Release\net5.0\FactoryMethodSecondVersion.AssemblyInfoInputs.cache
+C:\Users\gpalka\Documents\DesignPattern\FactoryMethodSecondVersion\obj\Release\net5.0\FactoryMethodSecondVersion.AssemblyInfo.cs
+C:\Users\gpalka\Documents\DesignPattern\FactoryMethodSecondVersion\obj\Release\net5.0\FactoryMethodSecondVersion.csproj.CoreCompileInputs.cache
+C:\Users\gpalka\Documents\DesignPattern\FactoryMethodSecondVersion\obj\Release\net5.0\FactoryMethodSecondVersion.dll
+C:\Users\gpalka\Documents\DesignPattern\FactoryMethodSecondVersion\obj\Release\net5.0\ref\FactoryMethodSecondVersion.dll
+C:\Users\gpalka\Documents\DesignPattern\FactoryMethodSecondVersion\obj\Release\net5.0\FactoryMethodSecondVersion.pdb
+C:\Users\gpalka\Documents\DesignPattern\FactoryMethodSecondVersion\obj\Release\net5.0\FactoryMethodSecondVersion.genruntimeconfig.cache

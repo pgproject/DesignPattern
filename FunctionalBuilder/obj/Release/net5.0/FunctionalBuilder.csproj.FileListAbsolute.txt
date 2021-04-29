@@ -1,0 +1,16 @@
+C:\Users\gpalka\Documents\DesignPattern\FunctionalBuilder\bin\Release\net5.0\FunctionalBuilder.exe
+C:\Users\gpalka\Documents\DesignPattern\FunctionalBuilder\bin\Release\net5.0\FunctionalBuilder.deps.json
+C:\Users\gpalka\Documents\DesignPattern\FunctionalBuilder\bin\Release\net5.0\FunctionalBuilder.runtimeconfig.json
+C:\Users\gpalka\Documents\DesignPattern\FunctionalBuilder\bin\Release\net5.0\FunctionalBuilder.runtimeconfig.dev.json
+C:\Users\gpalka\Documents\DesignPattern\FunctionalBuilder\bin\Release\net5.0\FunctionalBuilder.dll
+C:\Users\gpalka\Documents\DesignPattern\FunctionalBuilder\bin\Release\net5.0\ref\FunctionalBuilder.dll
+C:\Users\gpalka\Documents\DesignPattern\FunctionalBuilder\bin\Release\net5.0\FunctionalBuilder.pdb
+C:\Users\gpalka\Documents\DesignPattern\FunctionalBuilder\obj\Release\net5.0\FunctionalBuilder.csprojAssemblyReference.cache
+C:\Users\gpalka\Documents\DesignPattern\FunctionalBuilder\obj\Release\net5.0\FunctionalBuilder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gpalka\Documents\DesignPattern\FunctionalBuilder\obj\Release\net5.0\FunctionalBuilder.AssemblyInfoInputs.cache
+C:\Users\gpalka\Documents\DesignPattern\FunctionalBuilder\obj\Release\net5.0\FunctionalBuilder.AssemblyInfo.cs
+C:\Users\gpalka\Documents\DesignPattern\FunctionalBuilder\obj\Release\net5.0\FunctionalBuilder.csproj.CoreCompileInputs.cache
+C:\Users\gpalka\Documents\DesignPattern\FunctionalBuilder\obj\Release\net5.0\FunctionalBuilder.dll
+C:\Users\gpalka\Documents\DesignPattern\FunctionalBuilder\obj\Release\net5.0\ref\FunctionalBuilder.dll
+C:\Users\gpalka\Documents\DesignPattern\FunctionalBuilder\obj\Release\net5.0\FunctionalBuilder.pdb
+C:\Users\gpalka\Documents\DesignPattern\FunctionalBuilder\obj\Release\net5.0\FunctionalBuilder.genruntimeconfig.cache

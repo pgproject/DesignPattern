@@ -27,7 +27,7 @@ namespace Bulider
             Console.WriteLine(sb);
 
 
-            var bulider = new HtmlBulider("ul");
+            var bulider = new HtmlBuilder("ul");
             bulider.AddChild("li", "hello").AddChild("li", "world");
             
             Console.WriteLine(bulider.ToString());
