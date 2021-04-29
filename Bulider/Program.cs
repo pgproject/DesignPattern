@@ -28,8 +28,7 @@ namespace Bulider
 
 
             var bulider = new HtmlBulider("ul");
-            bulider.AddChild("li", "hello");
-            bulider.AddChild("li", "world");
+            bulider.AddChild("li", "hello").AddChild("li", "world");
             
             Console.WriteLine(bulider.ToString());
         }

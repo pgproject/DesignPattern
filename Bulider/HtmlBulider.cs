@@ -11,10 +11,11 @@
             m_root.Name = rootName;
         }
 
-        public void AddChild(string childName, string childText)
+        public HtmlBulider AddChild(string childName, string childText)
         {
             var element = new HtmlElement(childName, childText);
             m_root.HtmlElements.Add(element);
+            return this;
         }
 
         public override string ToString()
