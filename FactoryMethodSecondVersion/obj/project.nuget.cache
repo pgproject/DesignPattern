@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "IZKsGbmJpzQP4HCkXdn7tUqNYYw+IY9UZ51Bo+VzewJMptQHcNLJUU2TiO1VK4Rn0KR5oQLt74kWUT+x+Antpg==",
+  "dgSpecHash": "tOG8L9xowD+PBMuAfhIhskgP4NGzVKK0Ss+RQZuMaV32a9+Y/9eZux1XCz9kL+Fmm1HWJ3WoLkUnl7e+i6YFiw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\gpalka\\Documents\\DesignPattern\\FactoryMethodSecondVersion\\FactoryMethodSecondVersion.csproj",
+  "projectFilePath": "C:\\Users\\Grzegorz\\Documents\\Projekty\\DesignPattern\\FactoryMethodSecondVersion\\FactoryMethodSecondVersion.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
