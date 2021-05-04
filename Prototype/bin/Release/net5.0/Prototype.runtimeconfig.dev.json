@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\gpalka\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\gpalka\\.nuget\\packages"
+    ]
+  }
+}

@@ -5,7 +5,7 @@ namespace AbstractFactory
 {
     public class HotDrinkMachine
     {
-        public enum AvailableDrink
+        /*public enum AvailableDrink
         {
             Coffee, 
             Tea
@@ -28,7 +28,50 @@ namespace AbstractFactory
         public IHotDrink MakeDrink(AvailableDrink drink, int amount)
         {
             return m_factories[drink].Prepare(amount);
+        }*/
+        private List<Tuple<string, IHotDrinkFactory>> m_factories = new List<Tuple<string, IHotDrinkFactory>>();
+        
+        public HotDrinkMachine()
+        {
+            foreach (var type in typeof(HotDrinkMachine).Assembly.GetTypes())
+            {
+                if(typeof(IHotDrinkFactory).IsAssignableFrom(type) && !type.IsInterface)
+                    m_factories.Add(Tuple.Create(
+                        type.Name.Replace("Factory", string.Empty),
+                        (IHotDrinkFactory)Activator.CreateInstance(type)
+                        ));
+            }
         }
 
+        public IHotDrink MakeDrink()
+        {
+            Console.WriteLine("Available drinks:");
+            for (int i = 0; i < m_factories.Count; i++)
+            {
+                var tuple = m_factories[i];
+                Console.WriteLine($"{i}: {tuple.Item1}");
+            }
+
+            while (true)
+            {
+                string s;
+                if ((s = Console.ReadLine()) != null
+                    && int.TryParse(s, out int i)
+                    && i >= 0
+                    && i < m_factories.Count)
+                {
+                    Console.Write("Specify amount: ");
+                    s = Console.ReadLine();
+                    if (s != null
+                        && int.TryParse(s, out int amount)
+                        && amount > 0)
+                    {
+                        return m_factories[i].Item2.Prepare(amount);
+                    }
+                }
+
+                Console.WriteLine("Incotect input, try again!");
+            }
+        }
     }
 }

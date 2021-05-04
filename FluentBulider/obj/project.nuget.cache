@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "vvUM2S9yXi/oeSy47JMR94ymFH8SBL4Or/5aicnCZaQPno6P+wl+rCGXEJ2S0l2j+oGaXVxor5GbJsxAk82QPA==",
+  "dgSpecHash": "bhhR/q9yKS7sbMMM766sB5HVouVmlHTVS+/BHYJ/Uv4pzeup7YJuh9WTisvqfifhurtXnrfzUo4ub2quv/wXgg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Grzegorz\\Documents\\Projekty\\DesignPattern\\FluentBulider\\FluentBulider.csproj",
+  "projectFilePath": "C:\\Users\\gpalka\\Documents\\DesignPattern\\FluentBulider\\FluentBulider.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "0PSrYpwEbXGep5+UFDl0bu4+ptQ1dPu8z/zK/+KT3AUdPbsqxDGpC6wh8KDVTN0Er65cWVktYD2qvyDDpioUNA==",
+  "dgSpecHash": "z0S0epqDKrm9TYMSoMaDFSS19Mhwe/ptXIjsiyENLSGl12B2bQbb6AeGi2z9pj9JrSpv0LOGjJdlYcjFYvUA0Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Grzegorz\\Documents\\Projekty\\DesignPattern\\AsynchronusFactoryMethod\\AsynchronusFactoryMethod.csproj",
+  "projectFilePath": "C:\\Users\\gpalka\\Documents\\DesignPattern\\AsynchronusFactoryMethod\\AsynchronusFactoryMethod.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

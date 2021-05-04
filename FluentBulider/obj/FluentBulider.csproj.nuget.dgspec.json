@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Grzegorz\\Documents\\Projekty\\DesignPattern\\FluentBulider\\FluentBulider.csproj": {}
+    "C:\\Users\\gpalka\\Documents\\DesignPattern\\FluentBulider\\FluentBulider.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Grzegorz\\Documents\\Projekty\\DesignPattern\\FluentBulider\\FluentBulider.csproj": {
+    "C:\\Users\\gpalka\\Documents\\DesignPattern\\FluentBulider\\FluentBulider.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Grzegorz\\Documents\\Projekty\\DesignPattern\\FluentBulider\\FluentBulider.csproj",
+        "projectUniqueName": "C:\\Users\\gpalka\\Documents\\DesignPattern\\FluentBulider\\FluentBulider.csproj",
         "projectName": "FluentBulider",
-        "projectPath": "C:\\Users\\Grzegorz\\Documents\\Projekty\\DesignPattern\\FluentBulider\\FluentBulider.csproj",
-        "packagesPath": "C:\\Users\\Grzegorz\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Grzegorz\\Documents\\Projekty\\DesignPattern\\FluentBulider\\obj\\",
+        "projectPath": "C:\\Users\\gpalka\\Documents\\DesignPattern\\FluentBulider\\FluentBulider.csproj",
+        "packagesPath": "C:\\Users\\gpalka\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\gpalka\\Documents\\DesignPattern\\FluentBulider\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Grzegorz\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\gpalka\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -54,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     }

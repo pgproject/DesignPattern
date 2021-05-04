@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Grzegorz\\Documents\\Projekty\\DesignPattern\\FactoryMethodSecondVersion\\FactoryMethodSecondVersion.csproj": {}
+    "C:\\Users\\gpalka\\Documents\\DesignPattern\\FactoryMethodSecondVersion\\FactoryMethodSecondVersion.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Grzegorz\\Documents\\Projekty\\DesignPattern\\FactoryMethodSecondVersion\\FactoryMethodSecondVersion.csproj": {
+    "C:\\Users\\gpalka\\Documents\\DesignPattern\\FactoryMethodSecondVersion\\FactoryMethodSecondVersion.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Grzegorz\\Documents\\Projekty\\DesignPattern\\FactoryMethodSecondVersion\\FactoryMethodSecondVersion.csproj",
+        "projectUniqueName": "C:\\Users\\gpalka\\Documents\\DesignPattern\\FactoryMethodSecondVersion\\FactoryMethodSecondVersion.csproj",
         "projectName": "FactoryMethodSecondVersion",
-        "projectPath": "C:\\Users\\Grzegorz\\Documents\\Projekty\\DesignPattern\\FactoryMethodSecondVersion\\FactoryMethodSecondVersion.csproj",
-        "packagesPath": "C:\\Users\\Grzegorz\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Grzegorz\\Documents\\Projekty\\DesignPattern\\FactoryMethodSecondVersion\\obj\\",
+        "projectPath": "C:\\Users\\gpalka\\Documents\\DesignPattern\\FactoryMethodSecondVersion\\FactoryMethodSecondVersion.csproj",
+        "packagesPath": "C:\\Users\\gpalka\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\gpalka\\Documents\\DesignPattern\\FactoryMethodSecondVersion\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Grzegorz\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\gpalka\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -54,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     }
