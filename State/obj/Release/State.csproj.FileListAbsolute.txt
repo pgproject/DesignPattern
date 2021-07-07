@@ -1,0 +1,6 @@
+C:\Users\gpalka\Documents\DesignPattern\State\bin\Release\State.exe.config
+C:\Users\gpalka\Documents\DesignPattern\State\bin\Release\State.exe
+C:\Users\gpalka\Documents\DesignPattern\State\bin\Release\State.pdb
+C:\Users\gpalka\Documents\DesignPattern\State\obj\Release\State.csproj.CoreCompileInputs.cache
+C:\Users\gpalka\Documents\DesignPattern\State\obj\Release\State.exe
+C:\Users\gpalka\Documents\DesignPattern\State\obj\Release\State.pdb

@@ -1,0 +1,6 @@
+C:\Users\gpalka\Documents\DesignPattern\Facade\bin\Release\Facade.exe.config
+C:\Users\gpalka\Documents\DesignPattern\Facade\bin\Release\Facade.exe
+C:\Users\gpalka\Documents\DesignPattern\Facade\bin\Release\Facade.pdb
+C:\Users\gpalka\Documents\DesignPattern\Facade\obj\Release\Facade.csproj.CoreCompileInputs.cache
+C:\Users\gpalka\Documents\DesignPattern\Facade\obj\Release\Facade.exe
+C:\Users\gpalka\Documents\DesignPattern\Facade\obj\Release\Facade.pdb

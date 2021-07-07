@@ -7,3 +7,10 @@ C:\Users\Administrator\Documents\repo\DesignPattern\TempeteMethod\obj\Debug\Temp
 C:\Users\Administrator\Documents\repo\DesignPattern\TempeteMethod\obj\Debug\TempeteMethod.pdb
 C:\Users\Grzegorz\Documents\Projekty\DesignPattern\TempeteMethod\obj\Debug\TempeteMethod.exe
 C:\Users\Grzegorz\Documents\Projekty\DesignPattern\TempeteMethod\obj\Debug\TempeteMethod.pdb
+C:\Users\gpalka\Documents\DesignPattern\TempeteMethod\bin\Debug\TempeteMethod.exe.config
+C:\Users\gpalka\Documents\DesignPattern\TempeteMethod\bin\Debug\TempeteMethod.exe
+C:\Users\gpalka\Documents\DesignPattern\TempeteMethod\bin\Debug\TempeteMethod.pdb
+C:\Users\gpalka\Documents\DesignPattern\TempeteMethod\obj\Debug\TempeteMethod.csprojAssemblyReference.cache
+C:\Users\gpalka\Documents\DesignPattern\TempeteMethod\obj\Debug\TempeteMethod.csproj.CoreCompileInputs.cache
+C:\Users\gpalka\Documents\DesignPattern\TempeteMethod\obj\Debug\TempeteMethod.exe
+C:\Users\gpalka\Documents\DesignPattern\TempeteMethod\obj\Debug\TempeteMethod.pdb

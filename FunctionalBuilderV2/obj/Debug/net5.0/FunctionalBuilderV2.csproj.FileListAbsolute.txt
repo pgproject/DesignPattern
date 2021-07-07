@@ -1,0 +1,16 @@
+C:\Users\gpalka\Documents\DesignPattern\FunctionalBuilderV2\bin\Debug\net5.0\FunctionalBuilderV2.exe
+C:\Users\gpalka\Documents\DesignPattern\FunctionalBuilderV2\bin\Debug\net5.0\FunctionalBuilderV2.deps.json
+C:\Users\gpalka\Documents\DesignPattern\FunctionalBuilderV2\bin\Debug\net5.0\FunctionalBuilderV2.runtimeconfig.json
+C:\Users\gpalka\Documents\DesignPattern\FunctionalBuilderV2\bin\Debug\net5.0\FunctionalBuilderV2.runtimeconfig.dev.json
+C:\Users\gpalka\Documents\DesignPattern\FunctionalBuilderV2\bin\Debug\net5.0\FunctionalBuilderV2.dll
+C:\Users\gpalka\Documents\DesignPattern\FunctionalBuilderV2\bin\Debug\net5.0\ref\FunctionalBuilderV2.dll
+C:\Users\gpalka\Documents\DesignPattern\FunctionalBuilderV2\bin\Debug\net5.0\FunctionalBuilderV2.pdb
+C:\Users\gpalka\Documents\DesignPattern\FunctionalBuilderV2\obj\Debug\net5.0\FunctionalBuilderV2.csprojAssemblyReference.cache
+C:\Users\gpalka\Documents\DesignPattern\FunctionalBuilderV2\obj\Debug\net5.0\FunctionalBuilderV2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gpalka\Documents\DesignPattern\FunctionalBuilderV2\obj\Debug\net5.0\FunctionalBuilderV2.AssemblyInfoInputs.cache
+C:\Users\gpalka\Documents\DesignPattern\FunctionalBuilderV2\obj\Debug\net5.0\FunctionalBuilderV2.AssemblyInfo.cs
+C:\Users\gpalka\Documents\DesignPattern\FunctionalBuilderV2\obj\Debug\net5.0\FunctionalBuilderV2.csproj.CoreCompileInputs.cache
+C:\Users\gpalka\Documents\DesignPattern\FunctionalBuilderV2\obj\Debug\net5.0\FunctionalBuilderV2.dll
+C:\Users\gpalka\Documents\DesignPattern\FunctionalBuilderV2\obj\Debug\net5.0\ref\FunctionalBuilderV2.dll
+C:\Users\gpalka\Documents\DesignPattern\FunctionalBuilderV2\obj\Debug\net5.0\FunctionalBuilderV2.pdb
+C:\Users\gpalka\Documents\DesignPattern\FunctionalBuilderV2\obj\Debug\net5.0\FunctionalBuilderV2.genruntimeconfig.cache

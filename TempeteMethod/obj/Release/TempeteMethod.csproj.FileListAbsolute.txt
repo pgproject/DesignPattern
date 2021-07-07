@@ -1,0 +1,7 @@
+C:\Users\gpalka\Documents\DesignPattern\TempeteMethod\bin\Release\TempeteMethod.exe.config
+C:\Users\gpalka\Documents\DesignPattern\TempeteMethod\bin\Release\TempeteMethod.exe
+C:\Users\gpalka\Documents\DesignPattern\TempeteMethod\bin\Release\TempeteMethod.pdb
+C:\Users\gpalka\Documents\DesignPattern\TempeteMethod\obj\Release\TempeteMethod.csprojAssemblyReference.cache
+C:\Users\gpalka\Documents\DesignPattern\TempeteMethod\obj\Release\TempeteMethod.csproj.CoreCompileInputs.cache
+C:\Users\gpalka\Documents\DesignPattern\TempeteMethod\obj\Release\TempeteMethod.exe
+C:\Users\gpalka\Documents\DesignPattern\TempeteMethod\obj\Release\TempeteMethod.pdb

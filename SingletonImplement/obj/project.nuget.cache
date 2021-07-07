@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "zrcu9vnHQ54QPU6zcMmL0oJDiof2qG/Rd0rHlLT5Cfw3ekZuMcDTvUgN1WxC0NpxVb1JqYsyppXcR/Fr1hduGA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\gpalka\\Documents\\DesignPattern\\SingletonImplement\\SingletonImplement.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gpalka\\.nuget\\packages\\autofac\\6.2.0\\autofac.6.2.0.nupkg.sha512",
+    "C:\\Users\\gpalka\\.nuget\\packages\\morelinq\\3.3.2\\morelinq.3.3.2.nupkg.sha512",
+    "C:\\Users\\gpalka\\.nuget\\packages\\system.diagnostics.diagnosticsource\\4.7.1\\system.diagnostics.diagnosticsource.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}

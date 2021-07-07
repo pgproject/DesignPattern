@@ -7,3 +7,10 @@ C:\Users\Administrator\Documents\repo\DesignPattern\Recommendation\obj\Debug\Rec
 C:\Users\Administrator\Documents\repo\DesignPattern\Recommendation\obj\Debug\Recommendation.pdb
 C:\Users\Grzegorz\Documents\Projekty\DesignPattern\Recommendation\obj\Debug\Recommendation.exe
 C:\Users\Grzegorz\Documents\Projekty\DesignPattern\Recommendation\obj\Debug\Recommendation.pdb
+C:\Users\gpalka\Documents\DesignPattern\Recommendation\bin\Debug\Recommendation.exe.config
+C:\Users\gpalka\Documents\DesignPattern\Recommendation\bin\Debug\Recommendation.exe
+C:\Users\gpalka\Documents\DesignPattern\Recommendation\bin\Debug\Recommendation.pdb
+C:\Users\gpalka\Documents\DesignPattern\Recommendation\obj\Debug\Recommendation.csprojAssemblyReference.cache
+C:\Users\gpalka\Documents\DesignPattern\Recommendation\obj\Debug\Recommendation.csproj.CoreCompileInputs.cache
+C:\Users\gpalka\Documents\DesignPattern\Recommendation\obj\Debug\Recommendation.exe
+C:\Users\gpalka\Documents\DesignPattern\Recommendation\obj\Debug\Recommendation.pdb

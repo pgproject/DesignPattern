@@ -1,0 +1,16 @@
+C:\Users\gpalka\Documents\DesignPattern\PrototypeDeepCopy\bin\Debug\net5.0\PrototypeDeepCopy.exe
+C:\Users\gpalka\Documents\DesignPattern\PrototypeDeepCopy\bin\Debug\net5.0\PrototypeDeepCopy.deps.json
+C:\Users\gpalka\Documents\DesignPattern\PrototypeDeepCopy\bin\Debug\net5.0\PrototypeDeepCopy.runtimeconfig.json
+C:\Users\gpalka\Documents\DesignPattern\PrototypeDeepCopy\bin\Debug\net5.0\PrototypeDeepCopy.runtimeconfig.dev.json
+C:\Users\gpalka\Documents\DesignPattern\PrototypeDeepCopy\bin\Debug\net5.0\PrototypeDeepCopy.dll
+C:\Users\gpalka\Documents\DesignPattern\PrototypeDeepCopy\bin\Debug\net5.0\ref\PrototypeDeepCopy.dll
+C:\Users\gpalka\Documents\DesignPattern\PrototypeDeepCopy\bin\Debug\net5.0\PrototypeDeepCopy.pdb
+C:\Users\gpalka\Documents\DesignPattern\PrototypeDeepCopy\obj\Debug\net5.0\PrototypeDeepCopy.csprojAssemblyReference.cache
+C:\Users\gpalka\Documents\DesignPattern\PrototypeDeepCopy\obj\Debug\net5.0\PrototypeDeepCopy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gpalka\Documents\DesignPattern\PrototypeDeepCopy\obj\Debug\net5.0\PrototypeDeepCopy.AssemblyInfoInputs.cache
+C:\Users\gpalka\Documents\DesignPattern\PrototypeDeepCopy\obj\Debug\net5.0\PrototypeDeepCopy.AssemblyInfo.cs
+C:\Users\gpalka\Documents\DesignPattern\PrototypeDeepCopy\obj\Debug\net5.0\PrototypeDeepCopy.csproj.CoreCompileInputs.cache
+C:\Users\gpalka\Documents\DesignPattern\PrototypeDeepCopy\obj\Debug\net5.0\PrototypeDeepCopy.dll
+C:\Users\gpalka\Documents\DesignPattern\PrototypeDeepCopy\obj\Debug\net5.0\ref\PrototypeDeepCopy.dll
+C:\Users\gpalka\Documents\DesignPattern\PrototypeDeepCopy\obj\Debug\net5.0\PrototypeDeepCopy.pdb
+C:\Users\gpalka\Documents\DesignPattern\PrototypeDeepCopy\obj\Debug\net5.0\PrototypeDeepCopy.genruntimeconfig.cache

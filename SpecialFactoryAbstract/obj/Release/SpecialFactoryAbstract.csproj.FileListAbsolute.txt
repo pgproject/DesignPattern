@@ -1,0 +1,7 @@
+C:\Users\gpalka\Documents\DesignPattern\SpecialFactoryAbstract\bin\Release\SpecialFactoryAbstract.exe.config
+C:\Users\gpalka\Documents\DesignPattern\SpecialFactoryAbstract\bin\Release\SpecialFactoryAbstract.exe
+C:\Users\gpalka\Documents\DesignPattern\SpecialFactoryAbstract\bin\Release\SpecialFactoryAbstract.pdb
+C:\Users\gpalka\Documents\DesignPattern\SpecialFactoryAbstract\obj\Release\SpecialFactoryAbstract.csprojAssemblyReference.cache
+C:\Users\gpalka\Documents\DesignPattern\SpecialFactoryAbstract\obj\Release\SpecialFactoryAbstract.csproj.CoreCompileInputs.cache
+C:\Users\gpalka\Documents\DesignPattern\SpecialFactoryAbstract\obj\Release\SpecialFactoryAbstract.exe
+C:\Users\gpalka\Documents\DesignPattern\SpecialFactoryAbstract\obj\Release\SpecialFactoryAbstract.pdb

@@ -1,0 +1,6 @@
+C:\Users\gpalka\Documents\DesignPattern\Recommendation\bin\Release\Recommendation.exe.config
+C:\Users\gpalka\Documents\DesignPattern\Recommendation\bin\Release\Recommendation.exe
+C:\Users\gpalka\Documents\DesignPattern\Recommendation\bin\Release\Recommendation.pdb
+C:\Users\gpalka\Documents\DesignPattern\Recommendation\obj\Release\Recommendation.csproj.CoreCompileInputs.cache
+C:\Users\gpalka\Documents\DesignPattern\Recommendation\obj\Release\Recommendation.exe
+C:\Users\gpalka\Documents\DesignPattern\Recommendation\obj\Release\Recommendation.pdb

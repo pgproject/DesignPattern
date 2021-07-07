@@ -1,0 +1,7 @@
+C:\Users\gpalka\Documents\DesignPattern\Iterator\bin\Release\Iterator.exe.config
+C:\Users\gpalka\Documents\DesignPattern\Iterator\bin\Release\Iterator.exe
+C:\Users\gpalka\Documents\DesignPattern\Iterator\bin\Release\Iterator.pdb
+C:\Users\gpalka\Documents\DesignPattern\Iterator\obj\Release\Iterator.csprojAssemblyReference.cache
+C:\Users\gpalka\Documents\DesignPattern\Iterator\obj\Release\Iterator.csproj.CoreCompileInputs.cache
+C:\Users\gpalka\Documents\DesignPattern\Iterator\obj\Release\Iterator.exe
+C:\Users\gpalka\Documents\DesignPattern\Iterator\obj\Release\Iterator.pdb

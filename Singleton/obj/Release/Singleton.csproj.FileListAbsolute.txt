@@ -1,0 +1,7 @@
+C:\Users\gpalka\Documents\DesignPattern\Singleton\bin\Release\Singleton.exe.config
+C:\Users\gpalka\Documents\DesignPattern\Singleton\bin\Release\Singleton.exe
+C:\Users\gpalka\Documents\DesignPattern\Singleton\bin\Release\Singleton.pdb
+C:\Users\gpalka\Documents\DesignPattern\Singleton\obj\Release\Singleton.csprojAssemblyReference.cache
+C:\Users\gpalka\Documents\DesignPattern\Singleton\obj\Release\Singleton.csproj.CoreCompileInputs.cache
+C:\Users\gpalka\Documents\DesignPattern\Singleton\obj\Release\Singleton.exe
+C:\Users\gpalka\Documents\DesignPattern\Singleton\obj\Release\Singleton.pdb

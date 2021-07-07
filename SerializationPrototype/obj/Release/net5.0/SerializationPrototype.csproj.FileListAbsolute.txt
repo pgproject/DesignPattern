@@ -1,0 +1,15 @@
+C:\Users\gpalka\Documents\DesignPattern\SerializationPrototype\bin\Release\net5.0\SerializationPrototype.exe
+C:\Users\gpalka\Documents\DesignPattern\SerializationPrototype\bin\Release\net5.0\SerializationPrototype.deps.json
+C:\Users\gpalka\Documents\DesignPattern\SerializationPrototype\bin\Release\net5.0\SerializationPrototype.runtimeconfig.json
+C:\Users\gpalka\Documents\DesignPattern\SerializationPrototype\bin\Release\net5.0\SerializationPrototype.runtimeconfig.dev.json
+C:\Users\gpalka\Documents\DesignPattern\SerializationPrototype\bin\Release\net5.0\SerializationPrototype.dll
+C:\Users\gpalka\Documents\DesignPattern\SerializationPrototype\bin\Release\net5.0\ref\SerializationPrototype.dll
+C:\Users\gpalka\Documents\DesignPattern\SerializationPrototype\bin\Release\net5.0\SerializationPrototype.pdb
+C:\Users\gpalka\Documents\DesignPattern\SerializationPrototype\obj\Release\net5.0\SerializationPrototype.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gpalka\Documents\DesignPattern\SerializationPrototype\obj\Release\net5.0\SerializationPrototype.AssemblyInfoInputs.cache
+C:\Users\gpalka\Documents\DesignPattern\SerializationPrototype\obj\Release\net5.0\SerializationPrototype.AssemblyInfo.cs
+C:\Users\gpalka\Documents\DesignPattern\SerializationPrototype\obj\Release\net5.0\SerializationPrototype.csproj.CoreCompileInputs.cache
+C:\Users\gpalka\Documents\DesignPattern\SerializationPrototype\obj\Release\net5.0\SerializationPrototype.dll
+C:\Users\gpalka\Documents\DesignPattern\SerializationPrototype\obj\Release\net5.0\ref\SerializationPrototype.dll
+C:\Users\gpalka\Documents\DesignPattern\SerializationPrototype\obj\Release\net5.0\SerializationPrototype.pdb
+C:\Users\gpalka\Documents\DesignPattern\SerializationPrototype\obj\Release\net5.0\SerializationPrototype.genruntimeconfig.cache

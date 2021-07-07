@@ -1,0 +1,7 @@
+C:\Users\gpalka\Documents\DesignPattern\Adapter\bin\Release\Adapter.exe.config
+C:\Users\gpalka\Documents\DesignPattern\Adapter\bin\Release\Adapter.exe
+C:\Users\gpalka\Documents\DesignPattern\Adapter\bin\Release\Adapter.pdb
+C:\Users\gpalka\Documents\DesignPattern\Adapter\obj\Release\Adapter.csprojAssemblyReference.cache
+C:\Users\gpalka\Documents\DesignPattern\Adapter\obj\Release\Adapter.csproj.CoreCompileInputs.cache
+C:\Users\gpalka\Documents\DesignPattern\Adapter\obj\Release\Adapter.exe
+C:\Users\gpalka\Documents\DesignPattern\Adapter\obj\Release\Adapter.pdb

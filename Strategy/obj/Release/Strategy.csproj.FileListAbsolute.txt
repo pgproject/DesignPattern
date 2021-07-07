@@ -1,0 +1,7 @@
+C:\Users\gpalka\Documents\DesignPattern\Strategy\bin\Release\Strategy.exe.config
+C:\Users\gpalka\Documents\DesignPattern\Strategy\bin\Release\Strategy.exe
+C:\Users\gpalka\Documents\DesignPattern\Strategy\bin\Release\Strategy.pdb
+C:\Users\gpalka\Documents\DesignPattern\Strategy\obj\Release\Strategy.csprojAssemblyReference.cache
+C:\Users\gpalka\Documents\DesignPattern\Strategy\obj\Release\Strategy.csproj.CoreCompileInputs.cache
+C:\Users\gpalka\Documents\DesignPattern\Strategy\obj\Release\Strategy.exe
+C:\Users\gpalka\Documents\DesignPattern\Strategy\obj\Release\Strategy.pdb

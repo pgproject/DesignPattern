@@ -7,3 +7,10 @@ C:\Users\Administrator\Documents\repo\DesignPattern\Facade\obj\Debug\Facade.exe
 C:\Users\Administrator\Documents\repo\DesignPattern\Facade\obj\Debug\Facade.pdb
 C:\Users\Grzegorz\Documents\Projekty\DesignPattern\Facade\obj\Debug\Facade.exe
 C:\Users\Grzegorz\Documents\Projekty\DesignPattern\Facade\obj\Debug\Facade.pdb
+C:\Users\gpalka\Documents\DesignPattern\Facade\bin\Debug\Facade.exe.config
+C:\Users\gpalka\Documents\DesignPattern\Facade\bin\Debug\Facade.exe
+C:\Users\gpalka\Documents\DesignPattern\Facade\bin\Debug\Facade.pdb
+C:\Users\gpalka\Documents\DesignPattern\Facade\obj\Debug\Facade.csprojAssemblyReference.cache
+C:\Users\gpalka\Documents\DesignPattern\Facade\obj\Debug\Facade.csproj.CoreCompileInputs.cache
+C:\Users\gpalka\Documents\DesignPattern\Facade\obj\Debug\Facade.exe
+C:\Users\gpalka\Documents\DesignPattern\Facade\obj\Debug\Facade.pdb

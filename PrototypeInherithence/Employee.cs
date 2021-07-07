@@ -13,9 +13,10 @@
             Salary = salary;
         }
 
-        public Employee DeepCopy()
+        public void CopyTo(Employee target)
         {
-            return new Employee((string[])Names.Clone(), Address.DeepCopy(), Salary);
+            base.CopyTo(target);
+            target.Salary = Salary;
         }
 
         public override string ToString()

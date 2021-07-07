@@ -7,3 +7,10 @@ C:\Users\Administrator\Documents\repo\DesignPattern\Iterator\obj\Debug\Iterator.
 C:\Users\Administrator\Documents\repo\DesignPattern\Iterator\obj\Debug\Iterator.pdb
 C:\Users\Grzegorz\Documents\Projekty\DesignPattern\Iterator\obj\Debug\Iterator.exe
 C:\Users\Grzegorz\Documents\Projekty\DesignPattern\Iterator\obj\Debug\Iterator.pdb
+C:\Users\gpalka\Documents\DesignPattern\Iterator\bin\Debug\Iterator.exe.config
+C:\Users\gpalka\Documents\DesignPattern\Iterator\bin\Debug\Iterator.exe
+C:\Users\gpalka\Documents\DesignPattern\Iterator\bin\Debug\Iterator.pdb
+C:\Users\gpalka\Documents\DesignPattern\Iterator\obj\Debug\Iterator.csprojAssemblyReference.cache
+C:\Users\gpalka\Documents\DesignPattern\Iterator\obj\Debug\Iterator.csproj.CoreCompileInputs.cache
+C:\Users\gpalka\Documents\DesignPattern\Iterator\obj\Debug\Iterator.exe
+C:\Users\gpalka\Documents\DesignPattern\Iterator\obj\Debug\Iterator.pdb

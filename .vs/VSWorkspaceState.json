@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Singleton",
+    "\\SingletonImplement",
+    "\\SingletonImplement\\bin",
+    "\\SingletonImplement\\bin\\Release\\net5.0",
+    "\\SingletonImplement\\obj",
+    "\\SingletonImplement\\obj\\Debug",
+    "\\SingletonImplement\\obj\\Debug\\net5.0",
+    "\\SingletonTestImplement"
+  ],
+  "SelectedNode": "\\SingletonTestImplement\\SingletonTestImplement.csproj",
+  "PreviewInSolutionExplorer": false
+}

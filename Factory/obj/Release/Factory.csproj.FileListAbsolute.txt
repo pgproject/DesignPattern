@@ -1,0 +1,7 @@
+C:\Users\gpalka\Documents\DesignPattern\Factory\bin\Release\Factory.exe.config
+C:\Users\gpalka\Documents\DesignPattern\Factory\bin\Release\Factory.exe
+C:\Users\gpalka\Documents\DesignPattern\Factory\bin\Release\Factory.pdb
+C:\Users\gpalka\Documents\DesignPattern\Factory\obj\Release\Factory.csprojAssemblyReference.cache
+C:\Users\gpalka\Documents\DesignPattern\Factory\obj\Release\Factory.csproj.CoreCompileInputs.cache
+C:\Users\gpalka\Documents\DesignPattern\Factory\obj\Release\Factory.exe
+C:\Users\gpalka\Documents\DesignPattern\Factory\obj\Release\Factory.pdb

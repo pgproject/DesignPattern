@@ -1,0 +1,7 @@
+C:\Users\gpalka\Documents\DesignPattern\Composite\bin\Release\Composite.exe.config
+C:\Users\gpalka\Documents\DesignPattern\Composite\bin\Release\Composite.exe
+C:\Users\gpalka\Documents\DesignPattern\Composite\bin\Release\Composite.pdb
+C:\Users\gpalka\Documents\DesignPattern\Composite\obj\Release\Composite.csprojAssemblyReference.cache
+C:\Users\gpalka\Documents\DesignPattern\Composite\obj\Release\Composite.csproj.CoreCompileInputs.cache
+C:\Users\gpalka\Documents\DesignPattern\Composite\obj\Release\Composite.exe
+C:\Users\gpalka\Documents\DesignPattern\Composite\obj\Release\Composite.pdb

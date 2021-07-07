@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "ATRqgwjiUAXo7mC/wBO1CbSrJe58xfGdsO+sLLtXZXUtqXBsTYSl4Y1J1YMsXh06iRivA6I5alYsHH8pj+mP7g==",
+  "dgSpecHash": "W8Pa7RDFjkvzsHsMIc9vu9mMB6D5cQSbGvxAUrCSzHc5CI0r8yKmAmF3ApDcud9WY3fxIUK6cZncP+UqlxHATQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\gpalka\\Documents\\DesignPattern\\PrototypeDeepCopy\\PrototypeDeepCopy.csproj",
   "expectedPackageFiles": [],

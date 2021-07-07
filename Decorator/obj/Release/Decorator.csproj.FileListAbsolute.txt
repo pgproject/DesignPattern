@@ -1,0 +1,7 @@
+C:\Users\gpalka\Documents\DesignPattern\Decorator\bin\Release\Decorator.exe.config
+C:\Users\gpalka\Documents\DesignPattern\Decorator\bin\Release\Decorator.exe
+C:\Users\gpalka\Documents\DesignPattern\Decorator\bin\Release\Decorator.pdb
+C:\Users\gpalka\Documents\DesignPattern\Decorator\obj\Release\Decorator.csprojAssemblyReference.cache
+C:\Users\gpalka\Documents\DesignPattern\Decorator\obj\Release\Decorator.csproj.CoreCompileInputs.cache
+C:\Users\gpalka\Documents\DesignPattern\Decorator\obj\Release\Decorator.exe
+C:\Users\gpalka\Documents\DesignPattern\Decorator\obj\Release\Decorator.pdb

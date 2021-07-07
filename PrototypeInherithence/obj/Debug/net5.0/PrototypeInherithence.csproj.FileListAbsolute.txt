@@ -1,0 +1,16 @@
+C:\Users\gpalka\Documents\DesignPattern\PrototypeInherithence\bin\Debug\net5.0\PrototypeInherithence.exe
+C:\Users\gpalka\Documents\DesignPattern\PrototypeInherithence\bin\Debug\net5.0\PrototypeInherithence.deps.json
+C:\Users\gpalka\Documents\DesignPattern\PrototypeInherithence\bin\Debug\net5.0\PrototypeInherithence.runtimeconfig.json
+C:\Users\gpalka\Documents\DesignPattern\PrototypeInherithence\bin\Debug\net5.0\PrototypeInherithence.runtimeconfig.dev.json
+C:\Users\gpalka\Documents\DesignPattern\PrototypeInherithence\bin\Debug\net5.0\PrototypeInherithence.dll
+C:\Users\gpalka\Documents\DesignPattern\PrototypeInherithence\bin\Debug\net5.0\ref\PrototypeInherithence.dll
+C:\Users\gpalka\Documents\DesignPattern\PrototypeInherithence\bin\Debug\net5.0\PrototypeInherithence.pdb
+C:\Users\gpalka\Documents\DesignPattern\PrototypeInherithence\obj\Debug\net5.0\PrototypeInherithence.csprojAssemblyReference.cache
+C:\Users\gpalka\Documents\DesignPattern\PrototypeInherithence\obj\Debug\net5.0\PrototypeInherithence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gpalka\Documents\DesignPattern\PrototypeInherithence\obj\Debug\net5.0\PrototypeInherithence.AssemblyInfoInputs.cache
+C:\Users\gpalka\Documents\DesignPattern\PrototypeInherithence\obj\Debug\net5.0\PrototypeInherithence.AssemblyInfo.cs
+C:\Users\gpalka\Documents\DesignPattern\PrototypeInherithence\obj\Debug\net5.0\PrototypeInherithence.csproj.CoreCompileInputs.cache
+C:\Users\gpalka\Documents\DesignPattern\PrototypeInherithence\obj\Debug\net5.0\PrototypeInherithence.dll
+C:\Users\gpalka\Documents\DesignPattern\PrototypeInherithence\obj\Debug\net5.0\ref\PrototypeInherithence.dll
+C:\Users\gpalka\Documents\DesignPattern\PrototypeInherithence\obj\Debug\net5.0\PrototypeInherithence.pdb
+C:\Users\gpalka\Documents\DesignPattern\PrototypeInherithence\obj\Debug\net5.0\PrototypeInherithence.genruntimeconfig.cache

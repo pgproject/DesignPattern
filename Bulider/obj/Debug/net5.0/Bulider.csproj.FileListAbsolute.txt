@@ -1,0 +1,16 @@
+C:\Users\gpalka\Documents\DesignPattern\Bulider\bin\Debug\net5.0\Bulider.exe
+C:\Users\gpalka\Documents\DesignPattern\Bulider\bin\Debug\net5.0\Bulider.deps.json
+C:\Users\gpalka\Documents\DesignPattern\Bulider\bin\Debug\net5.0\Bulider.runtimeconfig.json
+C:\Users\gpalka\Documents\DesignPattern\Bulider\bin\Debug\net5.0\Bulider.runtimeconfig.dev.json
+C:\Users\gpalka\Documents\DesignPattern\Bulider\bin\Debug\net5.0\Bulider.dll
+C:\Users\gpalka\Documents\DesignPattern\Bulider\bin\Debug\net5.0\ref\Bulider.dll
+C:\Users\gpalka\Documents\DesignPattern\Bulider\bin\Debug\net5.0\Bulider.pdb
+C:\Users\gpalka\Documents\DesignPattern\Bulider\obj\Debug\net5.0\Bulider.csprojAssemblyReference.cache
+C:\Users\gpalka\Documents\DesignPattern\Bulider\obj\Debug\net5.0\Bulider.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gpalka\Documents\DesignPattern\Bulider\obj\Debug\net5.0\Bulider.AssemblyInfoInputs.cache
+C:\Users\gpalka\Documents\DesignPattern\Bulider\obj\Debug\net5.0\Bulider.AssemblyInfo.cs
+C:\Users\gpalka\Documents\DesignPattern\Bulider\obj\Debug\net5.0\Bulider.csproj.CoreCompileInputs.cache
+C:\Users\gpalka\Documents\DesignPattern\Bulider\obj\Debug\net5.0\Bulider.dll
+C:\Users\gpalka\Documents\DesignPattern\Bulider\obj\Debug\net5.0\ref\Bulider.dll
+C:\Users\gpalka\Documents\DesignPattern\Bulider\obj\Debug\net5.0\Bulider.pdb
+C:\Users\gpalka\Documents\DesignPattern\Bulider\obj\Debug\net5.0\Bulider.genruntimeconfig.cache

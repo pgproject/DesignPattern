@@ -7,3 +7,10 @@ C:\Users\Administrator\Documents\repo\DesignPattern\Strategy\obj\Debug\Strategy.
 C:\Users\Administrator\Documents\repo\DesignPattern\Strategy\obj\Debug\Strategy.pdb
 C:\Users\Grzegorz\Documents\Projekty\DesignPattern\Strategy\obj\Debug\Strategy.exe
 C:\Users\Grzegorz\Documents\Projekty\DesignPattern\Strategy\obj\Debug\Strategy.pdb
+C:\Users\gpalka\Documents\DesignPattern\Strategy\bin\Debug\Strategy.exe.config
+C:\Users\gpalka\Documents\DesignPattern\Strategy\bin\Debug\Strategy.exe
+C:\Users\gpalka\Documents\DesignPattern\Strategy\bin\Debug\Strategy.pdb
+C:\Users\gpalka\Documents\DesignPattern\Strategy\obj\Debug\Strategy.csprojAssemblyReference.cache
+C:\Users\gpalka\Documents\DesignPattern\Strategy\obj\Debug\Strategy.csproj.CoreCompileInputs.cache
+C:\Users\gpalka\Documents\DesignPattern\Strategy\obj\Debug\Strategy.exe
+C:\Users\gpalka\Documents\DesignPattern\Strategy\obj\Debug\Strategy.pdb

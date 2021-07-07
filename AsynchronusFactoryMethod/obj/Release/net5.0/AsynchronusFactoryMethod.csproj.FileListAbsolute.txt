@@ -1,0 +1,16 @@
+C:\Users\gpalka\Documents\DesignPattern\AsynchronusFactoryMethod\bin\Release\net5.0\AsynchronusFactoryMethod.exe
+C:\Users\gpalka\Documents\DesignPattern\AsynchronusFactoryMethod\bin\Release\net5.0\AsynchronusFactoryMethod.deps.json
+C:\Users\gpalka\Documents\DesignPattern\AsynchronusFactoryMethod\bin\Release\net5.0\AsynchronusFactoryMethod.runtimeconfig.json
+C:\Users\gpalka\Documents\DesignPattern\AsynchronusFactoryMethod\bin\Release\net5.0\AsynchronusFactoryMethod.runtimeconfig.dev.json
+C:\Users\gpalka\Documents\DesignPattern\AsynchronusFactoryMethod\bin\Release\net5.0\AsynchronusFactoryMethod.dll
+C:\Users\gpalka\Documents\DesignPattern\AsynchronusFactoryMethod\bin\Release\net5.0\ref\AsynchronusFactoryMethod.dll
+C:\Users\gpalka\Documents\DesignPattern\AsynchronusFactoryMethod\bin\Release\net5.0\AsynchronusFactoryMethod.pdb
+C:\Users\gpalka\Documents\DesignPattern\AsynchronusFactoryMethod\obj\Release\net5.0\AsynchronusFactoryMethod.csprojAssemblyReference.cache
+C:\Users\gpalka\Documents\DesignPattern\AsynchronusFactoryMethod\obj\Release\net5.0\AsynchronusFactoryMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gpalka\Documents\DesignPattern\AsynchronusFactoryMethod\obj\Release\net5.0\AsynchronusFactoryMethod.AssemblyInfoInputs.cache
+C:\Users\gpalka\Documents\DesignPattern\AsynchronusFactoryMethod\obj\Release\net5.0\AsynchronusFactoryMethod.AssemblyInfo.cs
+C:\Users\gpalka\Documents\DesignPattern\AsynchronusFactoryMethod\obj\Release\net5.0\AsynchronusFactoryMethod.csproj.CoreCompileInputs.cache
+C:\Users\gpalka\Documents\DesignPattern\AsynchronusFactoryMethod\obj\Release\net5.0\AsynchronusFactoryMethod.dll
+C:\Users\gpalka\Documents\DesignPattern\AsynchronusFactoryMethod\obj\Release\net5.0\ref\AsynchronusFactoryMethod.dll
+C:\Users\gpalka\Documents\DesignPattern\AsynchronusFactoryMethod\obj\Release\net5.0\AsynchronusFactoryMethod.pdb
+C:\Users\gpalka\Documents\DesignPattern\AsynchronusFactoryMethod\obj\Release\net5.0\AsynchronusFactoryMethod.genruntimeconfig.cache

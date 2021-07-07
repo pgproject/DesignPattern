@@ -16,14 +16,16 @@
             HouseNumer = houseNumer;
         }
 
-        public Address DeepCopy()
-        {
-            return (Address) MemberwiseClone();
-        }
 
         public override string ToString()
         {
             return $"{nameof(StreetName)}: {StreetName}, " + $"{nameof(HouseNumer)}: {HouseNumer}";
+        }
+
+        public void CopyTo(Address target)
+        {
+            target.StreetName = StreetName;
+            target.HouseNumer = HouseNumer;
         }
     }
 }

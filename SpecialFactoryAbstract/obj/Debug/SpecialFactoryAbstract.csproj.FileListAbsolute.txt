@@ -7,3 +7,10 @@ C:\Users\Administrator\Documents\repo\DesignPattern\SpecialFactoryAbstract\obj\D
 C:\Users\Administrator\Documents\repo\DesignPattern\SpecialFactoryAbstract\obj\Debug\SpecialFactoryAbstract.pdb
 C:\Users\Grzegorz\Documents\Projekty\DesignPattern\SpecialFactoryAbstract\obj\Debug\SpecialFactoryAbstract.exe
 C:\Users\Grzegorz\Documents\Projekty\DesignPattern\SpecialFactoryAbstract\obj\Debug\SpecialFactoryAbstract.pdb
+C:\Users\gpalka\Documents\DesignPattern\SpecialFactoryAbstract\bin\Debug\SpecialFactoryAbstract.exe.config
+C:\Users\gpalka\Documents\DesignPattern\SpecialFactoryAbstract\bin\Debug\SpecialFactoryAbstract.exe
+C:\Users\gpalka\Documents\DesignPattern\SpecialFactoryAbstract\bin\Debug\SpecialFactoryAbstract.pdb
+C:\Users\gpalka\Documents\DesignPattern\SpecialFactoryAbstract\obj\Debug\SpecialFactoryAbstract.csprojAssemblyReference.cache
+C:\Users\gpalka\Documents\DesignPattern\SpecialFactoryAbstract\obj\Debug\SpecialFactoryAbstract.csproj.CoreCompileInputs.cache
+C:\Users\gpalka\Documents\DesignPattern\SpecialFactoryAbstract\obj\Debug\SpecialFactoryAbstract.exe
+C:\Users\gpalka\Documents\DesignPattern\SpecialFactoryAbstract\obj\Debug\SpecialFactoryAbstract.pdb

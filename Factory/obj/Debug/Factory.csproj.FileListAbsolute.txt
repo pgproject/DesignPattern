@@ -11,3 +11,10 @@ C:\Users\Administrator\Documents\repo\DesignPattern\Factory\obj\Debug\Factory.ex
 C:\Users\Administrator\Documents\repo\DesignPattern\Factory\obj\Debug\Factory.pdb
 C:\Users\Grzegorz\Documents\Projekty\DesignPattern\Factory\obj\Debug\Factory.exe
 C:\Users\Grzegorz\Documents\Projekty\DesignPattern\Factory\obj\Debug\Factory.pdb
+C:\Users\gpalka\Documents\DesignPattern\Factory\bin\Debug\Factory.exe.config
+C:\Users\gpalka\Documents\DesignPattern\Factory\bin\Debug\Factory.exe
+C:\Users\gpalka\Documents\DesignPattern\Factory\bin\Debug\Factory.pdb
+C:\Users\gpalka\Documents\DesignPattern\Factory\obj\Debug\Factory.csprojAssemblyReference.cache
+C:\Users\gpalka\Documents\DesignPattern\Factory\obj\Debug\Factory.csproj.CoreCompileInputs.cache
+C:\Users\gpalka\Documents\DesignPattern\Factory\obj\Debug\Factory.exe
+C:\Users\gpalka\Documents\DesignPattern\Factory\obj\Debug\Factory.pdb
