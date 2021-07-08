@@ -1,0 +1,16 @@
+C:\Users\gpalka\Documents\DesignPattern\AmbientContent\bin\Release\net5.0\AmbientContent.exe
+C:\Users\gpalka\Documents\DesignPattern\AmbientContent\bin\Release\net5.0\AmbientContent.deps.json
+C:\Users\gpalka\Documents\DesignPattern\AmbientContent\bin\Release\net5.0\AmbientContent.runtimeconfig.json
+C:\Users\gpalka\Documents\DesignPattern\AmbientContent\bin\Release\net5.0\AmbientContent.runtimeconfig.dev.json
+C:\Users\gpalka\Documents\DesignPattern\AmbientContent\bin\Release\net5.0\AmbientContent.dll
+C:\Users\gpalka\Documents\DesignPattern\AmbientContent\bin\Release\net5.0\ref\AmbientContent.dll
+C:\Users\gpalka\Documents\DesignPattern\AmbientContent\bin\Release\net5.0\AmbientContent.pdb
+C:\Users\gpalka\Documents\DesignPattern\AmbientContent\obj\Release\net5.0\AmbientContent.csprojAssemblyReference.cache
+C:\Users\gpalka\Documents\DesignPattern\AmbientContent\obj\Release\net5.0\AmbientContent.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gpalka\Documents\DesignPattern\AmbientContent\obj\Release\net5.0\AmbientContent.AssemblyInfoInputs.cache
+C:\Users\gpalka\Documents\DesignPattern\AmbientContent\obj\Release\net5.0\AmbientContent.AssemblyInfo.cs
+C:\Users\gpalka\Documents\DesignPattern\AmbientContent\obj\Release\net5.0\AmbientContent.csproj.CoreCompileInputs.cache
+C:\Users\gpalka\Documents\DesignPattern\AmbientContent\obj\Release\net5.0\AmbientContent.dll
+C:\Users\gpalka\Documents\DesignPattern\AmbientContent\obj\Release\net5.0\ref\AmbientContent.dll
+C:\Users\gpalka\Documents\DesignPattern\AmbientContent\obj\Release\net5.0\AmbientContent.pdb
+C:\Users\gpalka\Documents\DesignPattern\AmbientContent\obj\Release\net5.0\AmbientContent.genruntimeconfig.cache

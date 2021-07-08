@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "D6pNtsElbZMywN6tnsCK0Mx01PKVlbDi4QGXeAWcllD7Yg9mZ+tHF3/pLm4KzoXRq7forNUE5ksr+/66o7/94A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\gpalka\\Documents\\DesignPattern\\VectorAdapter\\VectorAdapter.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gpalka\\.nuget\\packages\\morelinq\\3.3.2\\morelinq.3.3.2.nupkg.sha512"
+  ],
+  "logs": []
+}

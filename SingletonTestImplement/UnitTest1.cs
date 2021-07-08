@@ -1,3 +1,5 @@
+using System;
+using Autofac;
 using NUnit.Framework;
 using SingletonImplement;
 
@@ -32,6 +34,29 @@ namespace SingletonTestImplement
             var names = new[] {"alpha", "gamma"};
             int tp = rf.GetTotalPopulation(names);
             Assert.That(tp, Is.EqualTo(4));
+        }
+
+        [Test]
+        public void DIPopulationTest()
+        {
+            var cb = new ContainerBuilder();
+            cb.RegisterType<OrdinaryDatabase>().As<IDatabase>().SingleInstance();
+            cb.RegisterType<ConfigurableRecordFinder>();
+
+            using (var c = cb.Build())
+            {
+                var rf = c.Resolve<ConfigurableRecordFinder>();
+            }
+        }
+
+        [Test]
+        public void Test()
+        {
+            var obj = new object();
+            
+            Assert.IsTrue(SingletonTester.IsSingleton(()=> obj));
+            Assert.IsFalse(SingletonTester.IsSingleton(()=> new object()));
+            
         }
     }
 }

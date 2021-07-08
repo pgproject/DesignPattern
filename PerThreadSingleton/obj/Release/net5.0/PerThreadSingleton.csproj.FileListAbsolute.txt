@@ -1,0 +1,16 @@
+C:\Users\gpalka\Documents\DesignPattern\PerThreadSingleton\bin\Release\net5.0\PerThreadSingleton.exe
+C:\Users\gpalka\Documents\DesignPattern\PerThreadSingleton\bin\Release\net5.0\PerThreadSingleton.deps.json
+C:\Users\gpalka\Documents\DesignPattern\PerThreadSingleton\bin\Release\net5.0\PerThreadSingleton.runtimeconfig.json
+C:\Users\gpalka\Documents\DesignPattern\PerThreadSingleton\bin\Release\net5.0\PerThreadSingleton.runtimeconfig.dev.json
+C:\Users\gpalka\Documents\DesignPattern\PerThreadSingleton\bin\Release\net5.0\PerThreadSingleton.dll
+C:\Users\gpalka\Documents\DesignPattern\PerThreadSingleton\bin\Release\net5.0\ref\PerThreadSingleton.dll
+C:\Users\gpalka\Documents\DesignPattern\PerThreadSingleton\bin\Release\net5.0\PerThreadSingleton.pdb
+C:\Users\gpalka\Documents\DesignPattern\PerThreadSingleton\obj\Release\net5.0\PerThreadSingleton.csprojAssemblyReference.cache
+C:\Users\gpalka\Documents\DesignPattern\PerThreadSingleton\obj\Release\net5.0\PerThreadSingleton.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gpalka\Documents\DesignPattern\PerThreadSingleton\obj\Release\net5.0\PerThreadSingleton.AssemblyInfoInputs.cache
+C:\Users\gpalka\Documents\DesignPattern\PerThreadSingleton\obj\Release\net5.0\PerThreadSingleton.AssemblyInfo.cs
+C:\Users\gpalka\Documents\DesignPattern\PerThreadSingleton\obj\Release\net5.0\PerThreadSingleton.csproj.CoreCompileInputs.cache
+C:\Users\gpalka\Documents\DesignPattern\PerThreadSingleton\obj\Release\net5.0\PerThreadSingleton.dll
+C:\Users\gpalka\Documents\DesignPattern\PerThreadSingleton\obj\Release\net5.0\ref\PerThreadSingleton.dll
+C:\Users\gpalka\Documents\DesignPattern\PerThreadSingleton\obj\Release\net5.0\PerThreadSingleton.pdb
+C:\Users\gpalka\Documents\DesignPattern\PerThreadSingleton\obj\Release\net5.0\PerThreadSingleton.genruntimeconfig.cache

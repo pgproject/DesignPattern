@@ -1,0 +1,16 @@
+C:\Users\gpalka\Documents\DesignPattern\GenericValueAdapter\bin\Release\net5.0\GenericValueAdapter.exe
+C:\Users\gpalka\Documents\DesignPattern\GenericValueAdapter\bin\Release\net5.0\GenericValueAdapter.deps.json
+C:\Users\gpalka\Documents\DesignPattern\GenericValueAdapter\bin\Release\net5.0\GenericValueAdapter.runtimeconfig.json
+C:\Users\gpalka\Documents\DesignPattern\GenericValueAdapter\bin\Release\net5.0\GenericValueAdapter.runtimeconfig.dev.json
+C:\Users\gpalka\Documents\DesignPattern\GenericValueAdapter\bin\Release\net5.0\GenericValueAdapter.dll
+C:\Users\gpalka\Documents\DesignPattern\GenericValueAdapter\bin\Release\net5.0\ref\GenericValueAdapter.dll
+C:\Users\gpalka\Documents\DesignPattern\GenericValueAdapter\bin\Release\net5.0\GenericValueAdapter.pdb
+C:\Users\gpalka\Documents\DesignPattern\GenericValueAdapter\obj\Release\net5.0\GenericValueAdapter.csprojAssemblyReference.cache
+C:\Users\gpalka\Documents\DesignPattern\GenericValueAdapter\obj\Release\net5.0\GenericValueAdapter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gpalka\Documents\DesignPattern\GenericValueAdapter\obj\Release\net5.0\GenericValueAdapter.AssemblyInfoInputs.cache
+C:\Users\gpalka\Documents\DesignPattern\GenericValueAdapter\obj\Release\net5.0\GenericValueAdapter.AssemblyInfo.cs
+C:\Users\gpalka\Documents\DesignPattern\GenericValueAdapter\obj\Release\net5.0\GenericValueAdapter.csproj.CoreCompileInputs.cache
+C:\Users\gpalka\Documents\DesignPattern\GenericValueAdapter\obj\Release\net5.0\GenericValueAdapter.dll
+C:\Users\gpalka\Documents\DesignPattern\GenericValueAdapter\obj\Release\net5.0\ref\GenericValueAdapter.dll
+C:\Users\gpalka\Documents\DesignPattern\GenericValueAdapter\obj\Release\net5.0\GenericValueAdapter.pdb
+C:\Users\gpalka\Documents\DesignPattern\GenericValueAdapter\obj\Release\net5.0\GenericValueAdapter.genruntimeconfig.cache

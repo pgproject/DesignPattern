@@ -1,0 +1,16 @@
+C:\Users\gpalka\Documents\DesignPattern\MonoState\bin\Release\net5.0\MonoState.exe
+C:\Users\gpalka\Documents\DesignPattern\MonoState\bin\Release\net5.0\MonoState.deps.json
+C:\Users\gpalka\Documents\DesignPattern\MonoState\bin\Release\net5.0\MonoState.runtimeconfig.json
+C:\Users\gpalka\Documents\DesignPattern\MonoState\bin\Release\net5.0\MonoState.runtimeconfig.dev.json
+C:\Users\gpalka\Documents\DesignPattern\MonoState\bin\Release\net5.0\MonoState.dll
+C:\Users\gpalka\Documents\DesignPattern\MonoState\bin\Release\net5.0\ref\MonoState.dll
+C:\Users\gpalka\Documents\DesignPattern\MonoState\bin\Release\net5.0\MonoState.pdb
+C:\Users\gpalka\Documents\DesignPattern\MonoState\obj\Release\net5.0\MonoState.csprojAssemblyReference.cache
+C:\Users\gpalka\Documents\DesignPattern\MonoState\obj\Release\net5.0\MonoState.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gpalka\Documents\DesignPattern\MonoState\obj\Release\net5.0\MonoState.AssemblyInfoInputs.cache
+C:\Users\gpalka\Documents\DesignPattern\MonoState\obj\Release\net5.0\MonoState.AssemblyInfo.cs
+C:\Users\gpalka\Documents\DesignPattern\MonoState\obj\Release\net5.0\MonoState.csproj.CoreCompileInputs.cache
+C:\Users\gpalka\Documents\DesignPattern\MonoState\obj\Release\net5.0\MonoState.dll
+C:\Users\gpalka\Documents\DesignPattern\MonoState\obj\Release\net5.0\ref\MonoState.dll
+C:\Users\gpalka\Documents\DesignPattern\MonoState\obj\Release\net5.0\MonoState.pdb
+C:\Users\gpalka\Documents\DesignPattern\MonoState\obj\Release\net5.0\MonoState.genruntimeconfig.cache
