@@ -2,7 +2,7 @@
 
 namespace GenericValueAdapter
 {
-    public class Vector<T, D> where D : IInteger, new()
+    public class Vector<TSelf, T, D> where D : IInteger, new() where TSelf : Vector<TSelf, T, D>, new()
     {
         
         protected T[] m_data;
@@ -25,9 +25,21 @@ namespace GenericValueAdapter
             }
         }
 
-        public static Vector<T, D> Create(params T[] values)
+        public static TSelf Create(params T[] values)
         {
-            return new Vector<T, D>(values);
+            var result = new TSelf();
+            
+            var requiredSize = new D().Value;
+            result.m_data = new T[requiredSize];
+
+            var providedSize = values.Length;
+
+            for (int i = 0; i < Math.Min(requiredSize, providedSize); i++)
+            {
+                result.m_data[i] = values[i];
+            }
+
+            return result;
         }
         
         public T this[int index]

@@ -1,0 +1,16 @@
+C:\Users\gpalka\Documents\DesignPattern\ExerciseAdapter\bin\Release\net5.0\ExerciseAdapter.exe
+C:\Users\gpalka\Documents\DesignPattern\ExerciseAdapter\bin\Release\net5.0\ExerciseAdapter.deps.json
+C:\Users\gpalka\Documents\DesignPattern\ExerciseAdapter\bin\Release\net5.0\ExerciseAdapter.runtimeconfig.json
+C:\Users\gpalka\Documents\DesignPattern\ExerciseAdapter\bin\Release\net5.0\ExerciseAdapter.runtimeconfig.dev.json
+C:\Users\gpalka\Documents\DesignPattern\ExerciseAdapter\bin\Release\net5.0\ExerciseAdapter.dll
+C:\Users\gpalka\Documents\DesignPattern\ExerciseAdapter\bin\Release\net5.0\ref\ExerciseAdapter.dll
+C:\Users\gpalka\Documents\DesignPattern\ExerciseAdapter\bin\Release\net5.0\ExerciseAdapter.pdb
+C:\Users\gpalka\Documents\DesignPattern\ExerciseAdapter\obj\Release\net5.0\ExerciseAdapter.csprojAssemblyReference.cache
+C:\Users\gpalka\Documents\DesignPattern\ExerciseAdapter\obj\Release\net5.0\ExerciseAdapter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gpalka\Documents\DesignPattern\ExerciseAdapter\obj\Release\net5.0\ExerciseAdapter.AssemblyInfoInputs.cache
+C:\Users\gpalka\Documents\DesignPattern\ExerciseAdapter\obj\Release\net5.0\ExerciseAdapter.AssemblyInfo.cs
+C:\Users\gpalka\Documents\DesignPattern\ExerciseAdapter\obj\Release\net5.0\ExerciseAdapter.csproj.CoreCompileInputs.cache
+C:\Users\gpalka\Documents\DesignPattern\ExerciseAdapter\obj\Release\net5.0\ExerciseAdapter.dll
+C:\Users\gpalka\Documents\DesignPattern\ExerciseAdapter\obj\Release\net5.0\ref\ExerciseAdapter.dll
+C:\Users\gpalka\Documents\DesignPattern\ExerciseAdapter\obj\Release\net5.0\ExerciseAdapter.pdb
+C:\Users\gpalka\Documents\DesignPattern\ExerciseAdapter\obj\Release\net5.0\ExerciseAdapter.genruntimeconfig.cache

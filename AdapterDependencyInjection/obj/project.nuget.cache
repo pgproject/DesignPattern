@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "EL064ngU3Qq8DuIKyc7l4YpB0dm0pVq2GEsOIX0wdPIAmaxNAcI//huOlev0iRM8O5w+BIVK8bBvjllYDkC8Sw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\gpalka\\Documents\\DesignPattern\\AdapterDependencyInjection\\AdapterDependencyInjection.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gpalka\\.nuget\\packages\\autofac\\6.2.0\\autofac.6.2.0.nupkg.sha512",
+    "C:\\Users\\gpalka\\.nuget\\packages\\system.diagnostics.diagnosticsource\\4.7.1\\system.diagnostics.diagnosticsource.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}

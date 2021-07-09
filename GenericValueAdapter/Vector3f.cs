@@ -1,6 +1,6 @@
 ﻿namespace GenericValueAdapter
 {
-    public class Vector3f : VectorOfFloat<Dimensions.Three>
+    public class Vector3f : VectorOfFloat<Vector3f, Dimensions.Three>
     {
         public override string ToString()
         {

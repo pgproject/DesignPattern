@@ -15,7 +15,8 @@ namespace GenericValueAdapter
 
             Console.WriteLine(result);
 
-            Vector<float, Dimensions.Three> u = Vector3f.Create(3.5f, 2.2f, 1);
+            Vector3f u = Vector3f.Create(3.5f, 2.2f, 1);
+            
             
         }
     }
