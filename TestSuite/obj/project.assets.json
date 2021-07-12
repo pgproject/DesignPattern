@@ -1226,6 +1226,16 @@
           "lib/netstandard1.3/System.Xml.XPath.XmlDocument.dll": {}
         }
       },
+      "CompositeExercise/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/CompositeExercise.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CompositeExercise.dll": {}
+        }
+      },
       "ExerciseAdapter/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v5.0",
@@ -4616,6 +4626,11 @@
         "system.xml.xpath.xmldocument.nuspec"
       ]
     },
+    "CompositeExercise/1.0.0": {
+      "type": "project",
+      "path": "../CompositeExercise/CompositeExercise.csproj",
+      "msbuildProject": "../CompositeExercise/CompositeExercise.csproj"
+    },
     "ExerciseAdapter/1.0.0": {
       "type": "project",
       "path": "../ExerciseAdapter/ExerciseAdapter.csproj",
@@ -4624,6 +4639,7 @@
   },
   "projectFileDependencyGroups": {
     "net5.0": [
+      "CompositeExercise >= 1.0.0",
       "ExerciseAdapter >= 1.0.0",
       "Microsoft.NET.Test.Sdk >= 16.5.0",
       "NUnit >= 3.12.0",
@@ -4657,6 +4673,9 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
+            "C:\\Users\\gpalka\\Documents\\DesignPattern\\CompositeExercise\\CompositeExercise.csproj": {
+              "projectPath": "C:\\Users\\gpalka\\Documents\\DesignPattern\\CompositeExercise\\CompositeExercise.csproj"
+            },
             "C:\\Users\\gpalka\\Documents\\DesignPattern\\ExerciseAdapter\\ExerciseAdapter.csproj": {
               "projectPath": "C:\\Users\\gpalka\\Documents\\DesignPattern\\ExerciseAdapter\\ExerciseAdapter.csproj"
             }

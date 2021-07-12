@@ -1,0 +1,16 @@
+C:\Users\gpalka\Documents\DesignPattern\MultipleInheritanceInterfaces\bin\Release\net5.0\MultipleInheritanceInterfaces.exe
+C:\Users\gpalka\Documents\DesignPattern\MultipleInheritanceInterfaces\bin\Release\net5.0\MultipleInheritanceInterfaces.deps.json
+C:\Users\gpalka\Documents\DesignPattern\MultipleInheritanceInterfaces\bin\Release\net5.0\MultipleInheritanceInterfaces.runtimeconfig.json
+C:\Users\gpalka\Documents\DesignPattern\MultipleInheritanceInterfaces\bin\Release\net5.0\MultipleInheritanceInterfaces.runtimeconfig.dev.json
+C:\Users\gpalka\Documents\DesignPattern\MultipleInheritanceInterfaces\bin\Release\net5.0\MultipleInheritanceInterfaces.dll
+C:\Users\gpalka\Documents\DesignPattern\MultipleInheritanceInterfaces\bin\Release\net5.0\ref\MultipleInheritanceInterfaces.dll
+C:\Users\gpalka\Documents\DesignPattern\MultipleInheritanceInterfaces\bin\Release\net5.0\MultipleInheritanceInterfaces.pdb
+C:\Users\gpalka\Documents\DesignPattern\MultipleInheritanceInterfaces\obj\Release\net5.0\MultipleInheritanceInterfaces.csprojAssemblyReference.cache
+C:\Users\gpalka\Documents\DesignPattern\MultipleInheritanceInterfaces\obj\Release\net5.0\MultipleInheritanceInterfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gpalka\Documents\DesignPattern\MultipleInheritanceInterfaces\obj\Release\net5.0\MultipleInheritanceInterfaces.AssemblyInfoInputs.cache
+C:\Users\gpalka\Documents\DesignPattern\MultipleInheritanceInterfaces\obj\Release\net5.0\MultipleInheritanceInterfaces.AssemblyInfo.cs
+C:\Users\gpalka\Documents\DesignPattern\MultipleInheritanceInterfaces\obj\Release\net5.0\MultipleInheritanceInterfaces.csproj.CoreCompileInputs.cache
+C:\Users\gpalka\Documents\DesignPattern\MultipleInheritanceInterfaces\obj\Release\net5.0\MultipleInheritanceInterfaces.dll
+C:\Users\gpalka\Documents\DesignPattern\MultipleInheritanceInterfaces\obj\Release\net5.0\ref\MultipleInheritanceInterfaces.dll
+C:\Users\gpalka\Documents\DesignPattern\MultipleInheritanceInterfaces\obj\Release\net5.0\MultipleInheritanceInterfaces.pdb
+C:\Users\gpalka\Documents\DesignPattern\MultipleInheritanceInterfaces\obj\Release\net5.0\MultipleInheritanceInterfaces.genruntimeconfig.cache

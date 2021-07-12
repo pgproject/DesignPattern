@@ -1,0 +1,16 @@
+C:\Users\gpalka\Documents\DesignPattern\DynamicDecoratorComposition\bin\Release\net5.0\DynamicDecoratorComposition.exe
+C:\Users\gpalka\Documents\DesignPattern\DynamicDecoratorComposition\bin\Release\net5.0\DynamicDecoratorComposition.deps.json
+C:\Users\gpalka\Documents\DesignPattern\DynamicDecoratorComposition\bin\Release\net5.0\DynamicDecoratorComposition.runtimeconfig.json
+C:\Users\gpalka\Documents\DesignPattern\DynamicDecoratorComposition\bin\Release\net5.0\DynamicDecoratorComposition.runtimeconfig.dev.json
+C:\Users\gpalka\Documents\DesignPattern\DynamicDecoratorComposition\bin\Release\net5.0\DynamicDecoratorComposition.dll
+C:\Users\gpalka\Documents\DesignPattern\DynamicDecoratorComposition\bin\Release\net5.0\ref\DynamicDecoratorComposition.dll
+C:\Users\gpalka\Documents\DesignPattern\DynamicDecoratorComposition\bin\Release\net5.0\DynamicDecoratorComposition.pdb
+C:\Users\gpalka\Documents\DesignPattern\DynamicDecoratorComposition\obj\Release\net5.0\DynamicDecoratorComposition.csprojAssemblyReference.cache
+C:\Users\gpalka\Documents\DesignPattern\DynamicDecoratorComposition\obj\Release\net5.0\DynamicDecoratorComposition.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gpalka\Documents\DesignPattern\DynamicDecoratorComposition\obj\Release\net5.0\DynamicDecoratorComposition.AssemblyInfoInputs.cache
+C:\Users\gpalka\Documents\DesignPattern\DynamicDecoratorComposition\obj\Release\net5.0\DynamicDecoratorComposition.AssemblyInfo.cs
+C:\Users\gpalka\Documents\DesignPattern\DynamicDecoratorComposition\obj\Release\net5.0\DynamicDecoratorComposition.csproj.CoreCompileInputs.cache
+C:\Users\gpalka\Documents\DesignPattern\DynamicDecoratorComposition\obj\Release\net5.0\DynamicDecoratorComposition.dll
+C:\Users\gpalka\Documents\DesignPattern\DynamicDecoratorComposition\obj\Release\net5.0\ref\DynamicDecoratorComposition.dll
+C:\Users\gpalka\Documents\DesignPattern\DynamicDecoratorComposition\obj\Release\net5.0\DynamicDecoratorComposition.pdb
+C:\Users\gpalka\Documents\DesignPattern\DynamicDecoratorComposition\obj\Release\net5.0\DynamicDecoratorComposition.genruntimeconfig.cache

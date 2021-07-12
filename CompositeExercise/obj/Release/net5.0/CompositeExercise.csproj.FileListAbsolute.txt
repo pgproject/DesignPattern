@@ -1,0 +1,16 @@
+C:\Users\gpalka\Documents\DesignPattern\CompositeExercise\bin\Release\net5.0\CompositeExercise.exe
+C:\Users\gpalka\Documents\DesignPattern\CompositeExercise\bin\Release\net5.0\CompositeExercise.deps.json
+C:\Users\gpalka\Documents\DesignPattern\CompositeExercise\bin\Release\net5.0\CompositeExercise.runtimeconfig.json
+C:\Users\gpalka\Documents\DesignPattern\CompositeExercise\bin\Release\net5.0\CompositeExercise.runtimeconfig.dev.json
+C:\Users\gpalka\Documents\DesignPattern\CompositeExercise\bin\Release\net5.0\CompositeExercise.dll
+C:\Users\gpalka\Documents\DesignPattern\CompositeExercise\bin\Release\net5.0\ref\CompositeExercise.dll
+C:\Users\gpalka\Documents\DesignPattern\CompositeExercise\bin\Release\net5.0\CompositeExercise.pdb
+C:\Users\gpalka\Documents\DesignPattern\CompositeExercise\obj\Release\net5.0\CompositeExercise.csprojAssemblyReference.cache
+C:\Users\gpalka\Documents\DesignPattern\CompositeExercise\obj\Release\net5.0\CompositeExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gpalka\Documents\DesignPattern\CompositeExercise\obj\Release\net5.0\CompositeExercise.AssemblyInfoInputs.cache
+C:\Users\gpalka\Documents\DesignPattern\CompositeExercise\obj\Release\net5.0\CompositeExercise.AssemblyInfo.cs
+C:\Users\gpalka\Documents\DesignPattern\CompositeExercise\obj\Release\net5.0\CompositeExercise.csproj.CoreCompileInputs.cache
+C:\Users\gpalka\Documents\DesignPattern\CompositeExercise\obj\Release\net5.0\CompositeExercise.dll
+C:\Users\gpalka\Documents\DesignPattern\CompositeExercise\obj\Release\net5.0\ref\CompositeExercise.dll
+C:\Users\gpalka\Documents\DesignPattern\CompositeExercise\obj\Release\net5.0\CompositeExercise.pdb
+C:\Users\gpalka\Documents\DesignPattern\CompositeExercise\obj\Release\net5.0\CompositeExercise.genruntimeconfig.cache

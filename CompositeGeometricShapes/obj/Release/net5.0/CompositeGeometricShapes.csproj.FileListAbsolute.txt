@@ -1,0 +1,16 @@
+C:\Users\gpalka\Documents\DesignPattern\CompositeGeometricShapes\bin\Release\net5.0\CompositeGeometricShapes.exe
+C:\Users\gpalka\Documents\DesignPattern\CompositeGeometricShapes\bin\Release\net5.0\CompositeGeometricShapes.deps.json
+C:\Users\gpalka\Documents\DesignPattern\CompositeGeometricShapes\bin\Release\net5.0\CompositeGeometricShapes.runtimeconfig.json
+C:\Users\gpalka\Documents\DesignPattern\CompositeGeometricShapes\bin\Release\net5.0\CompositeGeometricShapes.runtimeconfig.dev.json
+C:\Users\gpalka\Documents\DesignPattern\CompositeGeometricShapes\bin\Release\net5.0\CompositeGeometricShapes.dll
+C:\Users\gpalka\Documents\DesignPattern\CompositeGeometricShapes\bin\Release\net5.0\ref\CompositeGeometricShapes.dll
+C:\Users\gpalka\Documents\DesignPattern\CompositeGeometricShapes\bin\Release\net5.0\CompositeGeometricShapes.pdb
+C:\Users\gpalka\Documents\DesignPattern\CompositeGeometricShapes\obj\Release\net5.0\CompositeGeometricShapes.csprojAssemblyReference.cache
+C:\Users\gpalka\Documents\DesignPattern\CompositeGeometricShapes\obj\Release\net5.0\CompositeGeometricShapes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gpalka\Documents\DesignPattern\CompositeGeometricShapes\obj\Release\net5.0\CompositeGeometricShapes.AssemblyInfoInputs.cache
+C:\Users\gpalka\Documents\DesignPattern\CompositeGeometricShapes\obj\Release\net5.0\CompositeGeometricShapes.AssemblyInfo.cs
+C:\Users\gpalka\Documents\DesignPattern\CompositeGeometricShapes\obj\Release\net5.0\CompositeGeometricShapes.csproj.CoreCompileInputs.cache
+C:\Users\gpalka\Documents\DesignPattern\CompositeGeometricShapes\obj\Release\net5.0\CompositeGeometricShapes.dll
+C:\Users\gpalka\Documents\DesignPattern\CompositeGeometricShapes\obj\Release\net5.0\ref\CompositeGeometricShapes.dll
+C:\Users\gpalka\Documents\DesignPattern\CompositeGeometricShapes\obj\Release\net5.0\CompositeGeometricShapes.pdb
+C:\Users\gpalka\Documents\DesignPattern\CompositeGeometricShapes\obj\Release\net5.0\CompositeGeometricShapes.genruntimeconfig.cache

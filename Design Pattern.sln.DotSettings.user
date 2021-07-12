@@ -5,6 +5,7 @@
     &lt;ProjectFile&gt;9178255B-C7D6-4288-8E00-5F0F831D2E02/f:UnitTest1.cs&lt;/ProjectFile&gt;&#xD;
     &lt;TestAncestor&gt;&#xD;
       &lt;TestId&gt;NUnit3x::C7350CB8-0855-485E-89FD-AE09BAFA02AF::net5.0::TestSuite.Tests.Test&lt;/TestId&gt;&#xD;
+      &lt;TestId&gt;NUnit3x::C7350CB8-0855-485E-89FD-AE09BAFA02AF::net5.0::TestSuite.Tests.TestIntValue&lt;/TestId&gt;&#xD;
     &lt;/TestAncestor&gt;&#xD;
   &lt;/Or&gt;&#xD;
 &lt;/SessionState&gt;</s:String>

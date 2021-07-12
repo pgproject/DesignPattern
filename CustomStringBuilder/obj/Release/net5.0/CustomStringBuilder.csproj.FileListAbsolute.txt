@@ -1,0 +1,16 @@
+C:\Users\gpalka\Documents\DesignPattern\CustomStringBuilder\bin\Release\net5.0\CustomStringBuilder.exe
+C:\Users\gpalka\Documents\DesignPattern\CustomStringBuilder\bin\Release\net5.0\CustomStringBuilder.deps.json
+C:\Users\gpalka\Documents\DesignPattern\CustomStringBuilder\bin\Release\net5.0\CustomStringBuilder.runtimeconfig.json
+C:\Users\gpalka\Documents\DesignPattern\CustomStringBuilder\bin\Release\net5.0\CustomStringBuilder.runtimeconfig.dev.json
+C:\Users\gpalka\Documents\DesignPattern\CustomStringBuilder\bin\Release\net5.0\CustomStringBuilder.dll
+C:\Users\gpalka\Documents\DesignPattern\CustomStringBuilder\bin\Release\net5.0\ref\CustomStringBuilder.dll
+C:\Users\gpalka\Documents\DesignPattern\CustomStringBuilder\bin\Release\net5.0\CustomStringBuilder.pdb
+C:\Users\gpalka\Documents\DesignPattern\CustomStringBuilder\obj\Release\net5.0\CustomStringBuilder.csprojAssemblyReference.cache
+C:\Users\gpalka\Documents\DesignPattern\CustomStringBuilder\obj\Release\net5.0\CustomStringBuilder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gpalka\Documents\DesignPattern\CustomStringBuilder\obj\Release\net5.0\CustomStringBuilder.AssemblyInfoInputs.cache
+C:\Users\gpalka\Documents\DesignPattern\CustomStringBuilder\obj\Release\net5.0\CustomStringBuilder.AssemblyInfo.cs
+C:\Users\gpalka\Documents\DesignPattern\CustomStringBuilder\obj\Release\net5.0\CustomStringBuilder.csproj.CoreCompileInputs.cache
+C:\Users\gpalka\Documents\DesignPattern\CustomStringBuilder\obj\Release\net5.0\CustomStringBuilder.dll
+C:\Users\gpalka\Documents\DesignPattern\CustomStringBuilder\obj\Release\net5.0\ref\CustomStringBuilder.dll
+C:\Users\gpalka\Documents\DesignPattern\CustomStringBuilder\obj\Release\net5.0\CustomStringBuilder.pdb
+C:\Users\gpalka\Documents\DesignPattern\CustomStringBuilder\obj\Release\net5.0\CustomStringBuilder.genruntimeconfig.cache

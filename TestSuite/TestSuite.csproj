@@ -13,6 +13,7 @@
     </ItemGroup>
 
     <ItemGroup>
+      <ProjectReference Include="..\CompositeExercise\CompositeExercise.csproj" />
       <ProjectReference Include="..\ExerciseAdapter\ExerciseAdapter.csproj" />
     </ItemGroup>
 

@@ -103,3 +103,9 @@ C:\Users\gpalka\Documents\DesignPattern\TestSuite\obj\Release\net5.0\TestSuite.d
 C:\Users\gpalka\Documents\DesignPattern\TestSuite\obj\Release\net5.0\ref\TestSuite.dll
 C:\Users\gpalka\Documents\DesignPattern\TestSuite\obj\Release\net5.0\TestSuite.pdb
 C:\Users\gpalka\Documents\DesignPattern\TestSuite\obj\Release\net5.0\TestSuite.genruntimeconfig.cache
+C:\Users\gpalka\Documents\DesignPattern\TestSuite\bin\Release\net5.0\CompositeExercise.deps.json
+C:\Users\gpalka\Documents\DesignPattern\TestSuite\bin\Release\net5.0\CompositeExercise.runtimeconfig.json
+C:\Users\gpalka\Documents\DesignPattern\TestSuite\bin\Release\net5.0\CompositeExercise.runtimeconfig.dev.json
+C:\Users\gpalka\Documents\DesignPattern\TestSuite\bin\Release\net5.0\CompositeExercise.exe
+C:\Users\gpalka\Documents\DesignPattern\TestSuite\bin\Release\net5.0\CompositeExercise.dll
+C:\Users\gpalka\Documents\DesignPattern\TestSuite\bin\Release\net5.0\CompositeExercise.pdb

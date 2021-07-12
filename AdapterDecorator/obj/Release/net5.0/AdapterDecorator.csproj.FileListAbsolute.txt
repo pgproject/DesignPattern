@@ -1,0 +1,16 @@
+C:\Users\gpalka\Documents\DesignPattern\AdapterDecorator\bin\Release\net5.0\AdapterDecorator.exe
+C:\Users\gpalka\Documents\DesignPattern\AdapterDecorator\bin\Release\net5.0\AdapterDecorator.deps.json
+C:\Users\gpalka\Documents\DesignPattern\AdapterDecorator\bin\Release\net5.0\AdapterDecorator.runtimeconfig.json
+C:\Users\gpalka\Documents\DesignPattern\AdapterDecorator\bin\Release\net5.0\AdapterDecorator.runtimeconfig.dev.json
+C:\Users\gpalka\Documents\DesignPattern\AdapterDecorator\bin\Release\net5.0\AdapterDecorator.dll
+C:\Users\gpalka\Documents\DesignPattern\AdapterDecorator\bin\Release\net5.0\ref\AdapterDecorator.dll
+C:\Users\gpalka\Documents\DesignPattern\AdapterDecorator\bin\Release\net5.0\AdapterDecorator.pdb
+C:\Users\gpalka\Documents\DesignPattern\AdapterDecorator\obj\Release\net5.0\AdapterDecorator.csprojAssemblyReference.cache
+C:\Users\gpalka\Documents\DesignPattern\AdapterDecorator\obj\Release\net5.0\AdapterDecorator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gpalka\Documents\DesignPattern\AdapterDecorator\obj\Release\net5.0\AdapterDecorator.AssemblyInfoInputs.cache
+C:\Users\gpalka\Documents\DesignPattern\AdapterDecorator\obj\Release\net5.0\AdapterDecorator.AssemblyInfo.cs
+C:\Users\gpalka\Documents\DesignPattern\AdapterDecorator\obj\Release\net5.0\AdapterDecorator.csproj.CoreCompileInputs.cache
+C:\Users\gpalka\Documents\DesignPattern\AdapterDecorator\obj\Release\net5.0\AdapterDecorator.dll
+C:\Users\gpalka\Documents\DesignPattern\AdapterDecorator\obj\Release\net5.0\ref\AdapterDecorator.dll
+C:\Users\gpalka\Documents\DesignPattern\AdapterDecorator\obj\Release\net5.0\AdapterDecorator.pdb
+C:\Users\gpalka\Documents\DesignPattern\AdapterDecorator\obj\Release\net5.0\AdapterDecorator.genruntimeconfig.cache
